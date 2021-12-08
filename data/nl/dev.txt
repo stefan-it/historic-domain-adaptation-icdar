@@ -3,7 +3,7 @@ zelfmoord	O
 van	O
 den	O
 admiraal	O
-Pareja	B-PER
+Pareja	I-PER
 ,	O
 opperbe	O
 velhebber	O
@@ -13,8 +13,8 @@ Spaansch	O
 eskader	O
 in	O
 den	O
-Stillen	B-LOC
-Oceaan	B-LOC
+Stillen	I-LOC
+Oceaan	I-LOC
 ,	O
 is	O
 stellig	O
@@ -153,7 +153,7 @@ de	O
 door	O
 den	O
 heer	O
-von	B-PER
+von	I-PER
 Bismarck	I-PER
 gelezen	O
 troonrede	O
@@ -191,7 +191,7 @@ is	O
 waarmede	O
 de	O
 heer	O
-von	B-PER
+von	I-PER
 Grabow	I-PER
 ,	O
 voor	O
@@ -262,7 +262,7 @@ De	O
 zitting	O
 ,	O
 in	O
-Pruissen	B-LOC
+Pruissen	I-LOC
 vangt	O
 dus	O
 ,	O
@@ -285,7 +285,7 @@ koning	O
 noch	O
 de	O
 heer	O
-von	B-PER
+von	I-PER
 Bismarck	I-PER
 schijnen	O
 er	O
@@ -311,7 +311,7 @@ ontstelt	O
 De	O
 dagbladen	O
 van	O
-Triest	B-LOC
+Triest	I-LOC
 verhalen	O
 een	O
 zonderling	O
@@ -333,7 +333,7 @@ in	O
 de	O
 Oostenrijksche	O
 haven	O
-Pola	B-LOC
+Pola	I-LOC
 ,	O
 om	O
 zich	O
@@ -407,7 +407,7 @@ de	O
 kom	O
 mandant	O
 van	O
-Pola	B-LOC
+Pola	I-LOC
 zond	O
 ,	O
 om	O
@@ -421,8 +421,8 @@ eene	O
 telegrafische	O
 depêche	O
 naar	O
-Wee	B-LOC
-nen	B-LOC
+Wee	I-LOC
+nen	I-LOC
 ,	O
 van	O
 waar	O
@@ -447,7 +447,7 @@ vaartuigen	O
 ,	O
 welke	O
 naar	O
-Ancona	B-LOC
+Ancona	I-LOC
 vertrokken	O
 ,	O
 2	O
@@ -457,7 +457,7 @@ kanonschoten	O
 waarop	O
 het	O
 fort	O
-Franz	B-LOC
+Franz	I-LOC
 ,	O
 schot	O
 op	O
@@ -478,9 +478,9 @@ van	O
 een	O
 pleiziertrein	O
 van	O
-Venetië	B-LOC
+Venetië	I-LOC
 naar	O
-Milaan	B-LOC
+Milaan	I-LOC
 voor	O
 de	O
 laatste	O
@@ -492,7 +492,7 @@ van	O
 den	O
 kommandant	O
 van	O
-Venetië	B-LOC
+Venetië	I-LOC
 .	O
 
 Deze	O
@@ -512,9 +512,9 @@ zijdelingsche	O
 betrek	O
 kingen	O
 van	O
-Oostenrijk	B-LOC
+Oostenrijk	I-LOC
 met	O
-Italie	B-LOC
+Italie	I-LOC
 eene	O
 zekere	O
 ont	O
@@ -533,7 +533,7 @@ ontwapeningen	O
 .	O
 
 De	O
-Allgemeine	B-ORG
+Allgemeine	I-ORG
 Cor	I-ORG
 respondenz	I-ORG
 vermeent	O
@@ -559,7 +559,7 @@ ontkent	O
 Volgens	O
 mededeeling	O
 uit	O
-Athene	B-LOC
+Athene	I-LOC
 dd	O
 .	O
 2	O
@@ -613,8 +613,8 @@ hadden	O
 vernomen	O
 .	O
 
-AMERIKA	B-LOC
-NEW-YORK	B-LOC
+AMERIKA	I-LOC
+NEW-YORK	I-LOC
 ,	O
 1	O
 3	O
@@ -640,11 +640,11 @@ welke	O
 de	O
 ,	O
 heer	O
-Seward	B-PER
+Seward	I-PER
 aan	O
 den	O
 heer	O
-Drouyn	B-PER
+Drouyn	I-PER
 de	I-PER
 Lhuys	I-PER
 heeft	O
@@ -679,13 +679,13 @@ Dec	O
 heeft	O
 de	O
 heer	O
-Seward	B-PER
+Seward	I-PER
 aan	O
 den	O
 heer	O
-Bigelow	B-PER
+Bigelow	I-PER
 te	O
-Parijs	B-LOC
+Parijs	I-LOC
 geschreven	O
 :	O
 //Uwe	O
@@ -704,7 +704,7 @@ de	O
 Franschen	O
 weldra	O
 uit	O
-Mexiko	B-LOC
+Mexiko	I-LOC
 zullen	O
 aftrekken	O
 .	O
@@ -723,7 +723,7 @@ vernemen.	O
 ?	O
 
 Uit	O
-New-York	B-LOC
+New-York	I-LOC
 wordt	O
 gemeld	O
 ,	O
@@ -753,7 +753,7 @@ her	O
 innert	O
 ;	O
 de	O
-St	B-PER
+St	I-PER
 .	O
 
 Laurens	I-LOC
@@ -762,7 +762,7 @@ geheel	O
 toegevroren	O
 en	O
 Voor	O
-Montreal	B-LOC
+Montreal	I-LOC
 gingen	O
 reeds	O
 eenige	O
@@ -772,22 +772,22 @@ het	O
 ijs	O
 .	O
 
-ITALIE	B-LOC
-GENUA	B-LOC
+ITALIE	I-LOC
+GENUA	I-LOC
 ,	O
 2	O
 2	O
 Jan	O
 .	O
 
-Prins	B-PER
-Otto	B-PER
+Prins	I-PER
+Otto	I-PER
 ,	O
 jongste	O
 zoon	O
 vnn	O
-koning	B-PER
-Viktor-Emanuel	B-PER
+koning	I-PER
+Viktor-Emanuel	I-PER
 ,	O
 is	O
 heden	O
@@ -798,7 +798,7 @@ letftijd	O
 overleden	O
 .	O
 
-FLORENCE	B-LOC
+FLORENCE	I-LOC
 ,	O
 2	O
 3	O
@@ -836,7 +836,7 @@ voorganger	O
 ,	O
 den	O
 heer	O
-Sella	B-PER
+Sella	I-PER
 .	O
 
 Na	O
@@ -953,7 +953,7 @@ De	O
 door	O
 den	O
 heer	O
-Sella	B-PER
+Sella	I-PER
 aangekondigde	O
 bezuinigingen	O
 ten	O
@@ -1019,7 +1019,7 @@ de	O
 door	O
 den	O
 heer	O
-Sella	B-PER
+Sella	I-PER
 voorgestelde	O
 herziening	O
 van	O
@@ -1075,8 +1075,8 @@ te	O
 verlengen	O
 .	O
 
-SPANJE	B-LOC
-MADRID	B-LOC
+SPANJE	I-LOC
+MADRID	I-LOC
 ,	O
 2	O
 5	O
@@ -1094,7 +1094,7 @@ een	O
 prins	O
 .	O
 
-BAYONNE	B-LOC
+BAYONNE	I-LOC
 ,	O
 2	O
 5	O
@@ -1102,7 +1102,7 @@ Jan	O
 .	O
 
 Uit	O
-Madrid	B-LOC
+Madrid	I-LOC
 wordt	O
 onder	O
 dagteekening	O
@@ -1120,17 +1120,17 @@ den	O
 Spaanschen	O
 gezant	O
 te	O
-Lissabon	B-LOC
+Lissabon	I-LOC
 zegt	O
 ,	O
 dat	O
-Prim	B-PER
+Prim	I-PER
 met	O
 60	O
 0	O
 paarden	O
 te	O
-Barancos	B-LOC
+Barancos	I-LOC
 was	O
 aangekomen	O
 ,	O
@@ -1154,7 +1154,7 @@ geven	O
 .	O
 
 Uit	O
-Tarragona	B-LOC
+Tarragona	I-LOC
 wordt	O
 gemeld	O
 ,	O
@@ -1172,16 +1172,16 @@ gejaagd	O
 
 Het	O
 te	O
-Lissabon	B-LOC
+Lissabon	I-LOC
 verschijnende	O
 dagblad	O
-Commercio	B-ORG
+Commercio	I-ORG
 zegt	O
 ,	O
 dat	O
-Prim	B-PER
+Prim	I-PER
 in	O
-Portugal	B-LOC
+Portugal	I-LOC
 zal	O
 worden	O
 ontvangen	O
@@ -1203,8 +1203,8 @@ te	O
 bevrijden	O
 .	O
 
-FRANKRIJK	B-LOC
-PARIJS	B-LOC
+FRANKRIJK	I-LOC
+PARIJS	I-LOC
 ,	O
 2	O
 3	O
@@ -1275,7 +1275,7 @@ waarborgen	O
 De	O
 verplaatsing	O
 van	O
-Italie's	B-LOC
+Italie's	I-LOC
 hoofdstad	O
 is	O
 volbragt	O
@@ -1284,7 +1284,7 @@ volbragt	O
 De	O
 gevoelens	O
 in	O
-Italie	B-LOC
+Italie	I-LOC
 ,	O
 het	O
 gezond	O
@@ -1314,7 +1314,7 @@ De	O
 Fransche	O
 troepen	O
 te	O
-Rome	B-LOC
+Rome	I-LOC
 keeren	O
 succes	O
 sievelijk	O
@@ -1359,7 +1359,7 @@ met	O
 het	O
 kabinet	O
 te	O
-Florence	B-LOC
+Florence	I-LOC
 tot	O
 eene	O
 overeenstemming	O
@@ -1387,15 +1387,15 @@ Betreffende	O
 de	O
 oneenighedcn	O
 tusschen	O
-prins	B-PER
+prins	I-PER
 Couza	I-PER
 en	O
-Turkije	B-LOC
+Turkije	I-LOC
 zegt	O
 het	O
 overzigt	O
 dat	O
-Frankrijk	B-LOC
+Frankrijk	I-LOC
 aan	O
 eerst	O
 genoemde	O
@@ -1435,7 +1435,7 @@ brengt	O
 in	O
 herinnering	O
 dat	O
-Frankrijk	B-LOC
+Frankrijk	I-LOC
 be	O
 lang	O
 heeft	O
@@ -1447,7 +1447,7 @@ autonomie	O
 van	O
 het	O
 regentschap	O
-Tunis	B-LOC
+Tunis	I-LOC
 .	O
 
 De	O
@@ -1471,7 +1471,7 @@ door	O
 den	O
 bey	O
 en	O
-Turkije	B-LOC
+Turkije	I-LOC
 beaamd	O
 zullen	O
 worden	O
@@ -1504,7 +1504,7 @@ Regering	I-ORG
 de	O
 expeditie	O
 naar	O
-Mexiko	B-LOC
+Mexiko	I-LOC
 ondernam	O
 ,	O
 heeft	O
@@ -1537,7 +1537,7 @@ afhangt	O
 Wij	O
 zijn	O
 naar	O
-Mexiko	B-LOC
+Mexiko	I-LOC
 gegaan	O
 om	O
 herstelling	O
@@ -1560,7 +1560,7 @@ troepen	O
 zijn	O
 niet	O
 in	O
-Mexiko	B-LOC
+Mexiko	I-LOC
 bij	O
 wijze	O
 van	O
@@ -1586,7 +1586,7 @@ regt	O
 verworpen	O
 .	O
 
-Mexiko	B-LOC
+Mexiko	I-LOC
 wordt	O
 thans	O
 door	O
@@ -1623,7 +1623,7 @@ de	O
 noodige	O
 schikkingen	O
 met	O
-keizer	B-PER
+keizer	I-PER
 Maximiliaan	I-PER
 zullen	O
 zijn	O
@@ -1715,7 +1715,7 @@ van	O
 den	O
 dood	O
 van	O
-Lodewijk	B-PER
+Lodewijk	I-PER
 XVI	I-PER
 op	O
 de	O
@@ -1724,7 +1724,7 @@ wijze	O
 herdacht	O
 .	O
 
-PARIJS	B-LOC
+PARIJS	I-LOC
 ,	O
 2	O
 5	O
@@ -1745,7 +1745,7 @@ de	O
 verkiezing	O
 van	O
 den	O
-graaf	B-PER
+graaf	I-PER
 Walcwski	I-PER
 tot	O
 afgevaardigde	O
@@ -1809,8 +1809,8 @@ millioen	O
 vastgesteld	O
 .	O
 
-BELGIË	B-LOC
-BRUSSEL	B-LOC
+BELGIË	I-LOC
+BRUSSEL	I-LOC
 ,	O
 2	O
 4	O
@@ -1820,9 +1820,9 @@ Jan	O
 Tusschen	O
 de	O
 heeren	O
-Hijraans	B-PER
+Hijraans	I-PER
 en	O
-Thonnissen	B-PER
+Thonnissen	I-PER
 ,	O
 leden	O
 der	O
@@ -1873,13 +1873,13 @@ duel	O
 vreest	O
 .	O
 
-TILBURG	B-LOC
+TILBURG	I-LOC
 ,	O
 2	O
 7	O
 Januarij	O
 .	O
-NEDERLAND	B-LOC
+NEDERLAND	I-LOC
 .	O
 Z	O
 .	O
@@ -1893,22 +1893,22 @@ binnen	O
 het	O
 arrond	O
 ,	O
-Breda	B-LOC
+Breda	I-LOC
 ,	O
 ter	O
 standplaats	O
 de	O
 gemeente	O
-Wouw	B-LOC
+Wouw	I-LOC
 ,	O
-W	B-PER
+W	I-PER
 .	O
 van	I-PER
 Gastel	I-PER
 ,	O
 kand.-notaris	O
 te	O
-Breda	B-LOC
+Breda	I-LOC
 .	O
 Z	O
 .	O
@@ -1926,15 +1926,15 @@ ir	O
 het	O
 waterschap	O
 van	O
-Mars	B-LOC
+Mars	I-LOC
 en	I-LOC
 Wijth	I-LOC
 onder	O
-Grave	B-LOC
+Grave	I-LOC
 ,	O
 de	O
 heeren	O
-J	B-PER
+J	I-PER
 .	O
 L	I-PER
 .	O
@@ -1942,7 +1942,7 @@ L	I-PER
 Friesen	I-PER
 en	O
 mr	O
-H	B-PER
+H	I-PER
 .	O
 A	I-PER
 .	O
@@ -1982,7 +1982,7 @@ o	O
 a	O
 .	O
 in	O
-Noordbrabant	B-LOC
+Noordbrabant	I-LOC
 :	O
 in	O
 het	O
@@ -1993,7 +1993,7 @@ trikt	O
 tot	O
 voorzitter	O
 mr	O
-H	B-PER
+H	I-PER
 .	O
 
 Sassen	I-PER
@@ -2010,7 +2010,7 @@ zijn	O
 plaatsv	O
 .	O
 mr	O
-J	B-PER
+J	I-PER
 .	O
 B	I-PER
 .	O
@@ -2029,7 +2029,7 @@ St.	O
 ;	O
 tot	O
 lid	O
-F	B-PER
+F	I-PER
 .	O
 J	I-PER
 .	O
@@ -2040,7 +2040,7 @@ weth	O
 .	O
 der	O
 gemeente	O
-'s	B-LOC
+'s	I-LOC
 Bosch	I-LOC
 ;	O
 tot	O
@@ -2048,7 +2048,7 @@ zijn	O
 plaatsv	O
 .	O
 mr	O
-W	B-PER
+W	I-PER
 .	O
 J	I-PER
 .	O
@@ -2060,7 +2060,7 @@ van	O
 den	O
 gemeenteraad	O
 van	O
-'s	B-PER
+'s	I-PER
 Bosch	I-LOC
 ;	O
 ia	O
@@ -2071,7 +2071,7 @@ militiedistrikt	O
 tot	O
 voorzitter	O
 mr	O
-C	B-PER
+C	I-PER
 .	O
 A	I-PER
 .	O
@@ -2087,7 +2087,7 @@ St.	O
 ;	O
 tot	O
 lid	O
-J	B-PER
+J	I-PER
 .	O
 A	I-PER
 .	O
@@ -2100,13 +2100,13 @@ van	O
 den	O
 gemeenteraad	O
 van	O
-Breda	B-LOC
+Breda	I-LOC
 ;	O
 tot	O
 zijn	O
 plaatsv	O
 .	O
-G	B-PER
+G	I-PER
 .	O
 A	I-PER
 .	O
@@ -2118,7 +2118,7 @@ van	O
 den	O
 gemeenteraad	O
 van	O
-Breda	B-LOC
+Breda	I-LOC
 ;	O
 in	O
 het	O
@@ -2128,7 +2128,7 @@ militiedistrikt	O
 tot	O
 voorzitter	O
 mr	O
-M	B-PER
+M	I-PER
 .	O
 van	I-PER
 den	I-PER
@@ -2146,7 +2146,7 @@ zijn	O
 plaatsv	O
 .	O
 mr	O
-A	B-PER
+A	I-PER
 .	O
 J	I-PER
 .	O
@@ -2162,13 +2162,13 @@ St.	O
 ;	O
 tot	O
 lid	O
-J	B-PER
+J	I-PER
 .	O
-H	B-PER
+H	I-PER
 .	O
-van	B-PER
-Lierop	B-PER
-Tz.	B-PER
+van	I-PER
+Lierop	I-PER
+Tz.	I-PER
 ,	O
 weth	O
 .	O
@@ -2176,13 +2176,13 @@ der	O
 gem	O
 .	O
 
-Eindhoven	B-LOC
+Eindhoven	I-LOC
 ;	O
 tot	O
 zijn	O
 plaatsv	O
 .	O
-W	B-PER
+W	I-PER
 .	O
 van	I-PER
 Rekum	I-PER
@@ -2191,7 +2191,7 @@ lid	O
 van	O
 den	O
 gemeenteraad	O
-vanStratum	B-LOC
+vanStratum	I-LOC
 .	O
 Z	O
 .	O
@@ -2205,15 +2205,15 @@ binnen	O
 het	O
 arrond	O
 »	O
-Zwolle	B-LOC
+Zwolle	I-LOC
 ,	O
 ter	O
 standplaats	O
 de	O
 gemeente	O
-Zwartsluis	B-LOC
+Zwartsluis	I-LOC
 ,	O
-R	B-PER
+R	I-PER
 .	O
 J	I-PER
 .	O
@@ -2222,7 +2222,7 @@ Westenberg	I-PER
 ,	O
 kandidaat-notaris	O
 te	O
-Zwolle	B-LOC
+Zwolle	I-LOC
 .	O
 Z	O
 .	O
@@ -2239,7 +2239,7 @@ dienst	O
 den	O
 luit.-gen	O
 .	O
-J	B-PER
+J	I-PER
 .	O
 W	I-PER
 .	O
@@ -2260,12 +2260,12 @@ tot	O
 betaalm	O
 .	O
 te	O
-Sas	B-LOC
+Sas	I-LOC
 van	I-LOC
 Gent	I-LOC
 de	O
 heer	O
-P	B-PER
+P	I-PER
 .	O
 graai	I-PER
 van	I-PER
@@ -2309,9 +2309,9 @@ verleend	O
 
 De	O
 hecren	O
-Thorbecke	B-PER
+Thorbecke	I-PER
 en	O
-Olivier	B-PER
+Olivier	I-PER
 hebben	O
 hun	O
 ontslag	O
@@ -2323,16 +2323,16 @@ aangeboden	O
 terwijl	O
 de	O
 heeren	O
-Fransen	B-PER
+Fransen	I-PER
 van	I-PER
 de	I-PER
 Putte	I-PER
 ,	O
-Cremers	B-PER
+Cremers	I-PER
 ,	O
-Blanken	B-PER
+Blanken	I-PER
 en	O
-Huijssen	B-PER
+Huijssen	I-PER
 van	I-PER
 Kat	I-PER
 tendijke	I-PER
@@ -2402,10 +2402,10 @@ is	O
 Men	O
 schrijft	O
 uit	O
-Rome	B-LOC
+Rome	I-LOC
 aan	O
-de	B-ORG
-Noordbr	B-ORG
+de	I-ORG
+Noordbr	I-ORG
 .	O
 dat	O
 Zijne	O
@@ -2413,7 +2413,7 @@ Exe	O
 .	O
 de	O
 generaal	O
-Kanzler	B-PER
+Kanzler	I-PER
 ,	O
 minister	O
 der	O
@@ -2446,20 +2446,20 @@ Mgr	O
 de	O
 bisschop	O
 van	O
-Brugge	B-LOC
+Brugge	I-LOC
 ,	O
 op	O
 dit	O
 oogenblik	O
 in	O
-Italie	B-LOC
+Italie	I-LOC
 ,	O
 het	O
 bataillon	O
 ,	O
 dat	O
 te	O
-Velletri	B-LOC
+Velletri	I-LOC
 in	O
 garnizoen	O
 ligt	O
@@ -2482,8 +2482,8 @@ gehouden	O
 heeft	O
 .	O
 
-De	B-ORG
-Noordbrabanter	B-ORG
+De	I-ORG
+Noordbrabanter	I-ORG
 van	O
 gister	O
 meldt	O
@@ -2505,7 +2505,7 @@ jl	O
 2	O
 0	O
 te	O
-Rome	B-LOC
+Rome	I-LOC
 zijn	O
 aangekomen	O
 en	O
@@ -2533,7 +2533,7 @@ lokaal	O
 ge	O
 vestigd	O
 ia	O
-Steendam	B-LOC
+Steendam	I-LOC
 no	O
 .	O
 17	O
@@ -2547,14 +2547,14 @@ en	O
 van	O
 daar	O
 naar	O
-Rome	B-LOC
+Rome	I-LOC
 gezonden	O
 ,	O
 0:n	O
 te	O
-Gend	B-LOC
+Gend	I-LOC
 eu	O
-Rome	B-LOC
+Rome	I-LOC
 aangenomen	O
 te	O
 kunnen	O
@@ -2597,7 +2597,7 @@ zijn	O
 van	O
 dienst	O
 in	O
-Nederland	B-LOC
+Nederland	I-LOC
 ,	O
 terwiil	O
 zij	O
@@ -2632,7 +2632,7 @@ wonlen	O
 zij	O
 eerst	O
 te	O
-Rome	B-LOC
+Rome	I-LOC
 in	O
 gelijfd	O
 ,	O
@@ -2761,7 +2761,7 @@ die	O
 als	O
 zouaaf	O
 te	O
-Rome	B-LOC
+Rome	I-LOC
 aan	O
 gekomen	O
 zijn	O
@@ -2798,11 +2798,11 @@ thans	O
 in	O
 garnizoen	O
 te	O
-Veiletri	B-LOC
+Veiletri	I-LOC
 ,	O
-Frosinone	B-LOC
+Frosinone	I-LOC
 en	O
-Frascati	B-LOC
+Frascati	I-LOC
 ,	O
 in	O
 zullen	O
@@ -2829,7 +2829,7 @@ Kerkelijke	O
 Staten	O
 ,	O
 te	O
-Rome	B-LOC
+Rome	I-LOC
 in	O
 garnizoen	O
 komen	O
@@ -2845,7 +2845,7 @@ in	O
 de	O
 sektiën	O
 der	O
-Tweede	B-ORG
+Tweede	I-ORG
 Kamer	I-ORG
 over	O
 de	O
@@ -3114,7 +3114,7 @@ f400	O
 MARKTBERIGTEN	O
 .	O
 
-TILBURG	B-LOC
+TILBURG	I-LOC
 ,	O
 2	O
 6	O
@@ -3165,7 +3165,7 @@ BOTERMIJNEN	O
 Jan	O
 .	O
 
-Besoijen	B-LOC
+Besoijen	I-LOC
 ,	O
 73	O
 4	O
@@ -3181,7 +3181,7 @@ fl.l	O
 2	O
 4	O
 «	O
-Hilvarenbeek	B-LOC
+Hilvarenbeek	I-LOC
 ,	O
 64	O
 2	O
@@ -3197,7 +3197,7 @@ l	O
 4	O
 /	O
 /	O
-Waspik	B-LOC
+Waspik	I-LOC
 ,	O
 66	O
 5	O
@@ -3212,7 +3212,7 @@ f	O
 2	O
 5	O
 ii	O
-Udenhout	B-LOC
+Udenhout	I-LOC
 ,	O
 156	O
 2	O
@@ -3224,8 +3224,8 @@ f	O
 f	O
 1.1	O
 9	O
-'s	B-LOC
-HERTOGENBOSCH	B-LOC
+'s	I-LOC
+HERTOGENBOSCH	I-LOC
 2	O
 5	O
 Januarij	O
@@ -3364,7 +3364,7 @@ Koggebrood	O
 1-	O
 2	O
 cents	O
-SCHIEDAM	B-LOC
+SCHIEDAM	I-LOC
 ,	O
 2	O
 6	O
@@ -3428,7 +3428,7 @@ Beurstijdingen	O
 
 BEURS	O
 VAN	O
-AMSTERDAM	B-LOC
+AMSTERDAM	I-LOC
 .	O
 2	O
 5	O
@@ -3489,7 +3489,7 @@ Svndikaal	O
 1/	O
 2	O
 ?	O
-België	B-LOC
+België	I-LOC
 .	O
 Orl	O
 .	O
@@ -3674,7 +3674,7 @@ Obligatieu	O
 3	O
 J/	O
 8	O
-Oostenrijk	B-LOC
+Oostenrijk	I-LOC
 .	O
 Meiahck	O
 .	O
@@ -3755,7 +3755,7 @@ Mjxiko	O
 .	O
 
 Ie	O
-Londen	B-LOC
+Londen	I-LOC
 .	O
 .	O
 ..	O
@@ -3777,10 +3777,10 @@ Bóuadbx	O
 1	O
 ?	O
 
-Venezuela	B-LOC
+Venezuela	I-LOC
 ,	O
 te	O
-Londen	B-LOC
+Londen	I-LOC
 .	O
 ?	O
 2	O
@@ -3812,19 +3812,19 @@ Vei.St.losb.lB7	O
 ADVERTENTIËN	O
 DIENST	O
 TUSSCHEN	O
-OOSTERHOUT	B-LOC
+OOSTERHOUT	I-LOC
 ,	O
-DORDRECHT	B-LOC
+DORDRECHT	I-LOC
 EN	O
-ROTTERDAM	B-LOC
+ROTTERDAM	I-LOC
 .	O
 JANUARIJ	O
 .	O
 
 Van	O
-Oosterhout	B-LOC
+Oosterhout	I-LOC
 Van	O
-Rotterdam	B-LOC
+Rotterdam	I-LOC
 Maandag	O
 29	O
 ,	O
@@ -3884,7 +3884,7 @@ n.m	O
 f	O
 ililf	O
 P1III11I	O
-OOSTERHOUT?ROTTERDAM	B-LOC
+OOSTERHOUT?ROTTERDAM	I-LOC
 :	O
 
 Voorkajuit	O
@@ -3906,17 +3906,17 @@ verhooging	O
 
 Gedrukt	O
 bij	O
-VV	B-ORG
+VV	I-ORG
 .	O
 
-UERGMANS	B-ORG
+UERGMANS	I-ORG
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 A.-t.Ymm8QBvmm	O
 Notaris	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 zal	O
 in	O
@@ -3950,7 +3950,7 @@ van	O
 ,	O
 9	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 in	O
 Quiriji.stole	O
@@ -4062,15 +4062,15 @@ vroegeren	O
 Woon	O
 huize	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 achter	O
 het	O
 woonhuis	O
 van	O
-W	B-PER
+W	I-PER
 .	O
-BERGMANS	B-PER
+BERGMANS	I-PER
 .	O
 {________	O
 .	O
@@ -4209,12 +4209,12 @@ werden	O
 uitgegeven	O
 :	O
 
-Guèrin	B-PER
+Guèrin	I-PER
 ,	O
 üe	O
 Gelukzalige	O
-MAGARETIIA	B-PER
-ALACOQUE	B-PER
+MAGARETIIA	I-PER
+ALACOQUE	I-PER
 en	O
 de	O
 Devotie	O
@@ -4223,7 +4223,7 @@ het	O
 Heilig	O
 hart	O
 van	O
-Jezus	B-PER
+Jezus	I-PER
 ,	O
 1	O
 Deel	O
@@ -4233,7 +4233,7 @@ O.CO	O
 Heilig	O
 Hart	O
 van	O
-Jezus	B-PER
+Jezus	I-PER
 ,	O
 1	O
 Deel	O
@@ -4251,7 +4251,7 @@ Deel	O
 /	O
 0.2	O
 0	O
-Séguin	B-PER
+Séguin	I-PER
 ,	O
 Leven	O
 van	O
@@ -4259,9 +4259,9 @@ den	O
 gelukz	O
 .	O
 
-PETRUS	B-PER
-CA	B-PER
-NISIUS	B-PER
+PETRUS	I-PER
+CA	I-PER
+NISIUS	I-PER
 ,	O
 2	O
 Deelen	O
@@ -4269,7 +4269,7 @@ i	O
 ,	O
 1.2	O
 0	O
-Martinet	B-PER
+Martinet	I-PER
 ,	O
 EMANUEL	O
 of	O
@@ -4300,21 +4300,21 @@ Deel	O
 ff	O
 0.7	O
 0	O
-Lacordaire	B-PER
+Lacordaire	I-PER
 ,	O
 Leven	O
 van	O
 den	O
 heiligen	O
-DOMINI	B-PER
-CUS	B-PER
+DOMINI	I-PER
+CUS	I-PER
 ,	O
 2	O
 Deelen	O
 ff	O
 1.1	O
 0	O
-Stolk	B-PER
+Stolk	I-PER
 ,	O
 Sprokkelingen	O
 uit	O
@@ -4325,9 +4325,9 @@ den	O
 H	O
 .	O
 
-FRANCISCUS	B-PER
-VAN	B-PER
-SALES	B-PER
+FRANCISCUS	I-PER
+VAN	I-PER
+SALES	I-PER
 ,	O
 1	O
 Deel	O
@@ -4335,13 +4335,13 @@ Deel	O
 /	O
 0.4	O
 0	O
-VIVIA	B-PER
-PERPETUA	B-PER
+VIVIA	I-PER
+PERPETUA	I-PER
 ,	O
 eene	O
 zuster	O
 van	O
-FABIOLA	B-PER
+FABIOLA	I-PER
 ,	O
 lste	O
 Deel	O
@@ -4430,13 +4430,13 @@ het	O
 eerste	O
 Deel	O
 van	O
-VIVIA	B-PER
-PERPETUA	B-PER
+VIVIA	I-PER
+PERPETUA	I-PER
 ,	O
 eene	O
 zuster	O
 van	O
-FABIOLA	B-PER
+FABIOLA	I-PER
 ,	O
 a	O
 7	O
@@ -4448,7 +4448,7 @@ bekomen	O
 Burgerlijke	O
 Stand	O
 van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 van	O
 den	O
@@ -4467,43 +4467,43 @@ Jan	O
 .	O
 GEBOORTEN	O
 .	O
-M	B-PER
+M	I-PER
 .	O
 
-A	B-PER
-de	B-PER
-Jong	B-PER
-geb	B-PER
+A	I-PER
+de	I-PER
+Jong	I-PER
+geb	I-PER
 .	O
 
-Graafmans	B-PER
+Graafmans	I-PER
 ,	O
 z	O
 .	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
-C	B-PER
+C	I-PER
 .	O
 
-Lom	B-PER
-mors	B-PER
-geb	B-PER
+Lom	I-PER
+mors	I-PER
+geb	I-PER
 .	O
-van	B-PER
-Hoof	B-PER
+van	I-PER
+Hoof	I-PER
 ,	O
 d	O
 .	O
 ?	O
-M	B-PER
+M	I-PER
 .	O
-van	B-PER
-Bleek	B-PER
-geb	B-PER
+van	I-PER
+Bleek	I-PER
+geb	I-PER
 .	O
 
-Klecks	B-PER
+Klecks	I-PER
 ,	O
 z	O
 .	O
@@ -4513,125 +4513,125 @@ M	O
 11	O
 .	O
 
-Staps	B-PER
-geb	B-PER
+Staps	I-PER
+geb	I-PER
 .	O
-van	B-PER
-Doormaal	B-PER
+van	I-PER
+Doormaal	I-PER
 ,	O
 **	O
 .	O
 ?	O
-H	B-PER
+H	I-PER
 .	O
-M	B-PER
+M	I-PER
 .	O
-van	B-PER
-Dijk	B-PER
-gob	B-PER
+van	I-PER
+Dijk	I-PER
+gob	I-PER
 .	O
-van	B-PER
-de	B-PER
-Sande	B-PER
+van	I-PER
+de	I-PER
+Sande	I-PER
 ,	O
 z	O
 .	O
 ?	O
-D	B-PER
+D	I-PER
 .	O
-de	B-PER
-Rooij	B-PER
+de	I-PER
+Rooij	I-PER
 ,	O
-geb	B-PER
+geb	I-PER
 .	O
 
-Mallens	B-PER
+Mallens	I-PER
 ,	O
 el	O
 .	O
 ?	O
-W	B-PER
+W	I-PER
 .	O
 
-Emmen	B-PER
-geb	B-PER
+Emmen	I-PER
+geb	I-PER
 .	O
 
-Louis	B-PER
+Louis	I-PER
 ,	O
 d	O
 .	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
-van	B-PER
-Bladel	B-PER
-peb	B-PER
+van	I-PER
+Bladel	I-PER
+peb	I-PER
 .	O
 
-Donders	B-PER
+Donders	I-PER
 ,	O
 d	O
 .	O
 ?	O
-C	B-PER
+C	I-PER
 .	O
-M	B-PER
+M	I-PER
 .	O
 
-Donders	B-PER
-geb	B-PER
+Donders	I-PER
+geb	I-PER
 .	O
-vaa	B-PER
-Dooremaal	B-PER
+vaa	I-PER
+Dooremaal	I-PER
 ,	O
 z	O
 .	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
 
-Smeulders	B-PER
-geb	B-PER
+Smeulders	I-PER
+geb	I-PER
 .	O
-van	B-PER
-Gestel	B-PER
+van	I-PER
+Gestel	I-PER
 ,	O
 z	O
 .	O
 ?	O
-M	B-PER
+M	I-PER
 .	O
-A	B-PER
+A	I-PER
 .	O
-van	B-PER
-Dun	B-PER
-geb	B-PER
+van	I-PER
+Dun	I-PER
+geb	I-PER
 .	O
 
-Doorakkeis	B-PER
+Doorakkeis	I-PER
 ,	O
 d	O
 .	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
 
-Somers	B-PER
-geb	B-PER
-Thai	B-PER
+Somers	I-PER
+geb	I-PER
+Thai	I-PER
 ,	O
 d	O
 .	O
 ?	O
-M	B-PER
+M	I-PER
 .	O
 
-Hendriks	B-PER
-geb	B-PER
+Hendriks	I-PER
+geb	I-PER
 .	O
-de	B-PER
-Brouwer	B-PER
+de	I-PER
+Brouwer	I-PER
 ,	O
 levenl	O
 .	O
@@ -4641,32 +4641,32 @@ z	O
 OVERLIJ	O
 DENS	O
 .	O
-A	B-PER
+A	I-PER
 .	O
 
-Gloreux	B-PER
+Gloreux	I-PER
 eehtg	O
 .	O
 van	O
-A	B-PER
+A	I-PER
 ,	O
-G	B-PER
+G	I-PER
 .	O
-van	B-PER
-den	B-PER
-Broek	B-PER
+van	I-PER
+den	I-PER
+Broek	I-PER
 ,	O
 ond	O
 7	O
 1	O
 j	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
-C	B-PER
+C	I-PER
 .	O
 
-Donders	B-PER
+Donders	I-PER
 jm.	O
 ,	O
 oud	O
@@ -4674,10 +4674,10 @@ oud	O
 j	O
 .	O
 ?	O
-C	B-PER
+C	I-PER
 .	O
 
-Bierings	B-PER
+Bierings	I-PER
 jd.	O
 ,	O
 oud	O
@@ -4686,19 +4686,19 @@ oud	O
 (1	O
 .	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
-M	B-PER
+M	I-PER
 .	O
-de	B-PER
-Graaf	B-PER
+de	I-PER
+Graaf	I-PER
 huisvr	O
 .	O
 van	O
-C	B-PER
+C	I-PER
 .	O
-vau	B-PER
-Loon	B-PER
+vau	I-PER
+Loon	I-PER
 ,	O
 oud	O
 6	O
@@ -4706,17 +4706,17 @@ oud	O
 j	O
 .	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
-ile	B-PER
-Leeuw	B-PER
+ile	I-PER
+Leeuw	I-PER
 cchtg	O
 .	O
 van	O
-A	B-PER
+A	I-PER
 .	O
 
-Riet	B-PER
+Riet	I-PER
 ,	O
 oud	O
 1	O
@@ -4724,23 +4724,23 @@ oud	O
 j	O
 .	O
 ?	O
-C	B-PER
+C	I-PER
 .	O
-A	B-PER
+A	I-PER
 .	O
-van	B-PER
-de	B-PER
-Wouw	B-PER
+van	I-PER
+de	I-PER
+Wouw	I-PER
 jin.	O
 ,	O
 oud	O
 8	O
 ra.	O
 ?	O
-C	B-PER
+C	I-PER
 .	O
 
-Bierings	B-PER
+Bierings	I-PER
 jm.	O
 ,	O
 oud	O
@@ -4748,15 +4748,15 @@ oud	O
 j	O
 .	O
 ?	O
-D	B-PER
+D	I-PER
 .	O
-Al	B-PER
+Al	I-PER
 .	O
-A	B-PER
+A	I-PER
 .	O
-van	B-PER
-Spaen	B-PER
-donck	B-PER
+van	I-PER
+Spaen	I-PER
+donck	I-PER
 ,	O
 jd.	O
 ,	O
@@ -4767,10 +4767,10 @@ j	O
 .	O
 
 HUWELIJKEN	O
-J	B-PER
+J	I-PER
 .	O
-van	B-PER
-Goop	B-PER
+van	I-PER
+Goop	I-PER
 jm.	O
 ,	O
 oud	O
@@ -4779,14 +4779,14 @@ oud	O
 j	O
 .	O
 met	O
-J	B-PER
+J	I-PER
 .	O
-E	B-PER
+E	I-PER
 .	O
 
-Heester	B-PER
--	B-PER
-mans	B-PER
+Heester	I-PER
+-	I-PER
+mans	I-PER
 jd	O
 .	O
 oud	O
@@ -4856,7 +4856,7 @@ VAN	O
 HET	O
 POSTKANTOOR	O
 TE	O
-TILBURG	B-LOC
+TILBURG	I-LOC
 .	O
 
 Dagelijks	O
@@ -4934,9 +4934,9 @@ VERTREK	O
 DER	O
 SPOORWEGEN^V	O
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Breda	B-LOC
+Breda	I-LOC
 6.17	O
 ,	O
 9.2	O
@@ -4950,7 +4950,7 @@ IJS.T	O
 nn»	O
 .	O
 »	O
-Boxtel	B-LOC
+Boxtel	I-LOC
 10,3	O
 2	O
 vm.	O
@@ -4965,9 +4965,9 @@ nm	O
 .	O
 
 Van	O
-Breda	B-LOC
+Breda	I-LOC
 naar	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 10,04	O
 ,	O
 vm.	O
@@ -4982,9 +4982,9 @@ Dm	O
 .	O
 
 Van	O
-Boxtel	B-LOC
+Boxtel	I-LOC
 naar	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 5.54	O
 ,	O
 9.0	O
@@ -5007,9 +5007,9 @@ j	O
 .	O
 
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Waalwijk	B-LOC
+Waalwijk	I-LOC
 dagelijks	O
 ten	O
 6	O
@@ -5018,9 +5018,9 @@ ureX^middstg.	O
 .	O
 
 Van	O
-Waalwijk	B-LOC
+Waalwijk	I-LOC
 naar	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 »	O
 »	O
 7	O
@@ -5028,9 +5028,9 @@ Tilburg	B-LOC
 TStto&j&JSt*	O
 *	O
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Heusden	B-LOC
+Heusden	I-LOC
 ,	O
 tusschen	O
 Zondag	O
@@ -5057,9 +5057,9 @@ Leeuw	O
 .	O
 
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Geertruidenberg	B-LOC
+Geertruidenberg	I-LOC
 Maandag	O
 en	O
 Dingsdag	O
@@ -5077,9 +5077,9 @@ u.	O
 ,	O
 bij	O
 de	O
-Wed	B-PER
+Wed	I-PER
 .	O
-Broeks	B-PER
+Broeks	I-PER
 .	O
 
 Brieven	O
@@ -5089,17 +5089,17 @@ franco	O
 ,	O
 aan	O
 den	O
-Uitgever	B-ORG
-W	B-ORG
+Uitgever	I-ORG
+W	I-ORG
 .	O
 
-BERGrMANS	B-ORG
+BERGrMANS	I-ORG
 ,	O
 te	O
-Tilburg	B-LOC
-WEEKBLAD	B-ORG
-VAN	B-ORG
-TILBURG	B-ORG
+Tilburg	I-LOC
+WEEKBLAD	I-ORG
+VAN	I-ORG
+TILBURG	I-ORG
 .	O
 
 TOBew	O
@@ -5115,7 +5115,7 @@ Z	O
 H	O
 .	O
 
-PIUS	B-PER
+PIUS	I-PER
 IX	I-PER
 .	O
 
@@ -5126,7 +5126,7 @@ opgave	O
 f	O
 3149.6	O
 7	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 Parochie	O
 't	O
@@ -5165,8 +5165,8 @@ in	O
 u	O
 .	O
 
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 /	O
 /	O
 3.	O
@@ -5213,7 +5213,7 @@ tentie	O
 ?	O
 
 Zegen	O
-God	B-PER
+God	I-PER
 onze	O
 ondernemingen	O
 .	O
@@ -5234,8 +5234,8 @@ liever	O
 tien	O
 guldeus	O
 voor	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 ,	O
 als	O
 vijftig	O
@@ -5252,7 +5252,7 @@ enz	O
 .	O
 ?	O
 
-Heilige	B-PER
+Heilige	I-PER
 Vader	I-PER
 ,	O
 zegen	O
@@ -5281,9 +5281,9 @@ N	O
 
 Ti	O
 O.EO	O
-Parochie	B-ORG
-'t	B-ORG
-Goirke	B-ORG
+Parochie	I-ORG
+'t	I-ORG
+Goirke	I-ORG
 :	O
 
 Een	O
@@ -5291,8 +5291,8 @@ onbekende	O
 H	O
 35	O
 0	O
-Parochie	B-ORG
-Korvel	B-ORG
+Parochie	I-ORG
+Korvel	I-ORG
 :	O
 
 Eene	O
@@ -5313,7 +5313,7 @@ Heiligheid	O
 Eene	O
 dienstmeid	O
 ,	O
-H	B-PER
+H	I-PER
 .	O
 
 Vader	I-PER
@@ -5323,20 +5323,20 @@ u	O
 1	O
 .	O
 
-Hoogemierde	B-LOC
+Hoogemierde	I-LOC
 ,	O
-St	B-ORG
+St	I-ORG
 .	O
 
-Joris-gilde	B-ORG
+Joris-gilde	I-ORG
 :	O
 
 Wij	O
 leden	O
 van	O
-Sint	B-ORG
-Joris	B-ORG
-Gilde	B-ORG
+Sint	I-ORG
+Joris	I-ORG
+Gilde	I-ORG
 ,	O
 Wij	O
 geven	O
@@ -5356,10 +5356,10 @@ zij	O
 .	O
 
 Dat	O
-God	B-PER
+God	I-PER
 de	O
 Groote	O
-Pius	B-PER
+Pius	I-PER
 spare	O
 ,	O
 Voor	O
@@ -5402,10 +5402,10 @@ zamen	O
 *	O
 25,6	O
 5	O
-Haaren	B-LOC
+Haaren	I-LOC
 ,	O
 bij	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 :	O
 
 Een	O
@@ -5451,7 +5451,7 @@ plat	O
 
 Als	O
 Vader	O
-Pius	B-PER
+Pius	I-PER
 dat	O
 maar	O
 weet	O
@@ -5543,7 +5543,7 @@ N	O
 Dit	O
 schenk	O
 ik	O
-Pius	B-PER
+Pius	I-PER
 Negen	I-PER
 ,	O
 En	O
@@ -5571,7 +5571,7 @@ leeft	O
 K	O
 02	O
 5	O
-Heilige	B-PER
+Heilige	I-PER
 Vader	I-PER
 ,	O
 zegen	O
@@ -5581,11 +5581,11 @@ tt	O
 1	O
 .	O
 
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
-Parochie	B-ORG
-'t	B-ORG
-Heike	B-ORG
+Parochie	I-ORG
+'t	I-ORG
+Heike	I-ORG
 :	O
 
 Winst	O
@@ -5612,7 +5612,7 @@ nog	O
 wat	O
 .	O
 
-Heilige	B-PER
+Heilige	I-PER
 Vader	I-PER
 ,	O
 zegen	O
@@ -5659,7 +5659,7 @@ waarmede	O
 de	O
 Koningin	O
 van	O
-Engeland	B-LOC
+Engeland	I-LOC
 ,	O
 jongsleden	O
 Dingsdag	O
@@ -5681,8 +5681,8 @@ dood	O
 van	O
 haren	O
 gemaal	O
-prins	B-PER
-Albert	B-PER
+prins	I-PER
+Albert	I-PER
 ,	O
 deze	O
 jaarlijksche	O
@@ -5726,9 +5726,9 @@ feesten	O
 der	O
 vloten	O
 van	O
-Frankrijk	B-LOC
+Frankrijk	I-LOC
 en	O
-Engeland	B-LOC
+Engeland	I-LOC
 als	O
 strekkende	O
 «om	O
@@ -5764,8 +5764,8 @@ zinsnede	O
 welwillend	O
 voor	O
 de	O
-Vereenigde	B-LOC
-Staten	B-LOC
+Vereenigde	I-LOC
+Staten	I-LOC
 en	O
 goedkeurende	O
 de	O
@@ -5835,7 +5835,7 @@ verbeteren	O
 
 Brieven	O
 uit	O
-Rome	B-LOC
+Rome	I-LOC
 van	O
 3	O
 0	O
@@ -5884,14 +5884,14 @@ het	O
 waarschijnlijk	O
 dat	O
 de	O
-baron	B-PER
-von	B-PER
-Meijendorf	B-PER
+baron	I-PER
+von	I-PER
+Meijendorf	I-PER
 door	O
 het	O
-Russisch	B-ORG
-gouver	B-ORG
-nement	B-ORG
+Russisch	I-ORG
+gouver	I-ORG
+nement	I-ORG
 zal	O
 teruggeroepen	O
 worden	O
@@ -5951,10 +5951,10 @@ denkt	O
 men	O
 dat	O
 de	O
-baron	B-PER
-von	B-PER
-Meijen	B-PER
-dorf	B-PER
+baron	I-PER
+von	I-PER
+Meijen	I-PER
+dorf	I-PER
 vervangen	O
 zal	O
 worden	O
@@ -5977,8 +5977,8 @@ den	O
 Paus	O
 .	O
 üe	O
-Fransche	B-ORG
-Senaat	B-ORG
+Fransche	I-ORG
+Senaat	I-ORG
 heeft	O
 zijn	O
 adres	O
@@ -6000,7 +6000,7 @@ de	O
 aanstaande	O
 ontruiming	O
 van	O
-Mexiko	B-LOC
+Mexiko	I-LOC
 .	O
 
 Voor	O
@@ -6019,25 +6019,25 @@ rede	O
 
 Bij	O
 de	O
-Pruissische	B-ORG
-Kamer	B-ORG
+Pruissische	I-ORG
+Kamer	I-ORG
 is	O
 het	O
 voorstel	O
 van	O
 den	O
 heer	O
-von	B-PER
-Virchow	B-PER
+von	I-PER
+Virchow	I-PER
 ,	O
 waarbij	O
 de	O
 aanhechting	O
 van	O
-Lau	B-LOC
-enburg	B-LOC
+Lau	I-LOC
+enburg	I-LOC
 bij	O
-Pruissen	B-LOC
+Pruissen	I-LOC
 nietig	O
 wordt	O
 verklaard	O
@@ -6078,7 +6078,7 @@ waaraan	O
 het	O
 financiewezen	O
 in	O
-Spanje	B-LOC
+Spanje	I-LOC
 lijdt	O
 ,	O
 is	O
@@ -6124,8 +6124,8 @@ laatste	O
 
 Terwijl	O
 de	O
-Spaansche	B-ORG
-Regering	B-ORG
+Spaansche	I-ORG
+Regering	I-ORG
 thans	O
 het	O
 onver	O
@@ -6134,14 +6134,14 @@ van	O
 een	O
 oorlog	O
 met	O
-Chili	B-LOC
+Chili	I-LOC
 aan	O
 de	O
 Kabinetten	O
 van	O
-Louden	B-LOC
+Louden	I-LOC
 en	O
-Parys	B-LOC
+Parys	I-LOC
 onder	O
 't	O
 oog	O
@@ -6151,8 +6151,8 @@ gebragt	O
 is	O
 door	O
 het	O
-Engelsche	B-ORG
-Gouvernement	B-ORG
+Engelsche	I-ORG
+Gouvernement	I-ORG
 besloten	O
 zijne	O
 on	O
@@ -6170,17 +6170,17 @@ laatste	O
 berigten	O
 uit	O
 den	O
-Stillen	B-LOC
-Oceaan	B-LOC
+Stillen	I-LOC
+Oceaan	I-LOC
 ,	O
 te	O
-Madrid	B-LOC
+Madrid	I-LOC
 ontvangen	O
 ,	O
 konstateeren	O
 dat	O
 in	O
-Chili	B-LOC
+Chili	I-LOC
 de	O
 toestand	O
 niet	O
@@ -6198,11 +6198,11 @@ op	O
 3	O
 punten	O
 ,	O
-Valparaiso	B-LOC
+Valparaiso	I-LOC
 ,	O
-Coquimbo	B-LOC
+Coquimbo	I-LOC
 eu	O
-Caldera	B-LOC
+Caldera	I-LOC
 .	O
 
 Het	O
@@ -6227,7 +6227,7 @@ schepen	O
 Volgens	O
 berigten	O
 uit	O
-New-York	B-LOC
+New-York	I-LOC
 zijn	O
 de	O
 Zuidelijke	O
@@ -6427,8 +6427,8 @@ in	O
 het	O
 Binnenland	O
 der	O
-Vereenigde	B-LOC
-Staten	B-LOC
+Vereenigde	I-LOC
+Staten	I-LOC
 ,	O
 is	O
 het	O
@@ -6442,7 +6442,7 @@ De	O
 berigten	O
 uit	O
 den	O
-Libanon	B-LOC
+Libanon	I-LOC
 luiden	O
 bij	O
 voortduring	O
@@ -6452,7 +6452,7 @@ ongunstig	O
 Volgens	O
 tijdingen	O
 nit	O
-Beyruth	B-LOC
+Beyruth	I-LOC
 ,	O
 voorko	O
 mende	O
@@ -6461,8 +6461,8 @@ den	O
 Moniteur	O
 ,	O
 had	O
-Jozef	B-PER
-Karam	B-PER
+Jozef	I-PER
+Karam	I-PER
 ,	O
 het	O
 hoofd	O
@@ -6535,15 +6535,15 @@ dat	O
 de	O
 kommonikatie	O
 tusschen	O
-Beyruth	B-LOC
+Beyruth	I-LOC
 en	O
-Tripoli	B-LOC
+Tripoli	I-LOC
 is	O
 afgebroken	O
 .	O
 
-TURKIJE	B-LOC
-BUCHAREST	B-LOC
+TURKIJE	I-LOC
+BUCHAREST	I-LOC
 ,	O
 8	O
 Febr	O
@@ -6595,24 +6595,24 @@ nog	O
 niets	O
 bekend	O
 .	O
-RUSLAND	B-LOC
+RUSLAND	I-LOC
 .	O
-St	B-LOC
+St	I-LOC
 .	O
 
-PETERSBURG	B-LOC
+PETERSBURG	I-LOC
 ,	O
 2	O
 Febr	O
 .	O
 
 Het	O
-Journal	B-ORG
-de	B-ORG
-St	B-ORG
+Journal	I-ORG
+de	I-ORG
+St	I-ORG
 .	O
 
-Petersbourg	B-ORG
+Petersbourg	I-ORG
 logenstraft	O
 onvoorwaardelijk	O
 ,	O
@@ -6632,8 +6632,8 @@ Paus	O
 en	O
 den	O
 heer	O
-von	B-PER
-Meyendorff	B-PER
+von	I-PER
+Meyendorff	I-PER
 uit	O
 te	O
 laten	O
@@ -6646,9 +6646,9 @@ gegeven	O
 berigt	O
 ,	O
 dat	O
-Oostenrijk	B-LOC
+Oostenrijk	I-LOC
 en	O
-Frankrijk	B-LOC
+Frankrijk	I-LOC
 op	O
 zich	O
 zouden	O
@@ -6665,16 +6665,16 @@ op	O
 de	O
 betrekkingen	O
 tusschen	O
-Rusland	B-LOC
+Rusland	I-LOC
 en	O
-Rome	B-LOC
+Rome	I-LOC
 zon	O
 kunnen	O
 uitoefenen	O
 .	O
 
-SPANJE	B-LOC
-MADRID	B-LOC
+SPANJE	I-LOC
+MADRID	I-LOC
 ,	O
 7	O
 Febr	O
@@ -6697,7 +6697,7 @@ amendement	O
 van	O
 den	O
 heer	O
-Moyano	B-PER
+Moyano	I-PER
 op	O
 het	O
 adres	O
@@ -6719,8 +6719,8 @@ te	O
 ondersteunen	O
 .	O
 
-ITALIE	B-LOC
-ROME	B-LOC
+ITALIE	I-LOC
+ROME	I-LOC
 ,	O
 7	O
 Febr	O
@@ -6748,9 +6748,9 @@ aan	O
 St	O
 .	O
 
-Thomas	B-PER
-van	B-PER
-Caiiterbury	B-PER
+Thomas	I-PER
+van	I-PER
+Caiiterbury	I-PER
 wordt	O
 opgerigt	O
 .	O
@@ -6761,14 +6761,14 @@ zekert	O
 ,	O
 zegt	O
 het	O
-Journal	B-ORG
-de	B-ORG
-Bruxelles	B-ORG
+Journal	I-ORG
+de	I-ORG
+Bruxelles	I-ORG
 ,	O
 dat	O
-koning	B-PER
-Viktor	B-PER
-Bmmanuel	B-PER
+koning	I-PER
+Viktor	I-PER
+Bmmanuel	I-PER
 eenen	O
 brief	O
 van	O
@@ -6795,8 +6795,8 @@ zijnen	O
 zoon	O
 ,	O
 den	O
-Prins	B-PER
-Otto	B-PER
+Prins	I-PER
+Otto	I-PER
 .	O
 
 Ook	O
@@ -6822,15 +6822,15 @@ petekind	O
 de	O
 Koningin	O
 van	O
-Portugal	B-LOC
+Portugal	I-LOC
 ,	O
 eene	O
 doch	O
 ter	O
 van	O
-Koning	B-PER
-Viktor	B-PER
-Emmanuel	B-PER
+Koning	I-PER
+Viktor	I-PER
+Emmanuel	I-PER
 .	O
 
 Het	O
@@ -6838,8 +6838,8 @@ officieel	O
 blad	O
 van	O
 het	O
-Fransche	B-ORG
-gouvernement	B-ORG
+Fransche	I-ORG
+gouvernement	I-ORG
 berigt	O
 dat.de	O
 Paus	O
@@ -6855,7 +6855,7 @@ aan'de	O
 kommissie	O
 die	O
 in	O
-Frankrijk	B-LOC
+Frankrijk	I-LOC
 gelden	O
 inzamelt	O
 tot	O
@@ -6869,7 +6869,7 @@ volking	O
 der	O
 Frünsche	O
 kolonie	O
-Guadeloupe	B-LOC
+Guadeloupe	I-LOC
 .	O
 
 De	O
@@ -6897,8 +6897,8 @@ kunnen	O
 doen	O
 .	O
 
-DUITSCHLAND	B-LOC
-PESTH	B-LOC
+DUITSCHLAND	I-LOC
+PESTH	I-LOC
 ,	O
 1	O
 Febr	O
@@ -6963,7 +6963,7 @@ heeft	O
 de	O
 kardinaal-primaat	O
 yan	O
-Hongarije	B-LOC
+Hongarije	I-LOC
 een	O
 toespraak	O
 gehouden	O
@@ -7182,7 +7182,7 @@ aan	O
 de	O
 hoofdstad	O
 van	O
-Hongarije	B-LOC
+Hongarije	I-LOC
 met	O
 mijn	O
 doorluchti	O
@@ -7202,8 +7202,8 @@ deelneming	O
 voor	O
 het	O
 edele	O
-Honga	B-LOC
-ren°land	B-LOC
+Honga	I-LOC
+ren°land	I-LOC
 en	O
 verwijl	O
 gaarne	O
@@ -7264,7 +7264,7 @@ zegen	O
 moge	O
 bekroonen.	O
 "	O
-BERLIJN	B-LOC
+BERLIJN	I-LOC
 ,	O
 3	O
 Febr	O
@@ -7280,12 +7280,12 @@ heden	O
 diende	O
 de	O
 heer	O
-Hoverbeck	B-PER
+Hoverbeck	I-PER
 ,	O
 van	O
 de	O
-Forlschritls	B-ORG
-partei	B-ORG
+Forlschritls	I-ORG
+partei	I-ORG
 ,	O
 een	O
 voorstel	O
@@ -7306,9 +7306,9 @@ zake	O
 der	O
 Afgevaar	O
 digden	O
-Frenzel	B-PER
+Frenzel	I-PER
 en	O
-Twesten	B-PER
+Twesten	I-PER
 .	O
 
 Dit	O
@@ -7368,13 +7368,13 @@ het	O
 voorstel	O
 des	O
 heeren	O
-Virchow	B-PER
+Virchow	I-PER
 ,	O
 om	O
 de	O
 vereeniging	O
 van	O
-Lauenburg	B-LOC
+Lauenburg	I-LOC
 met	O
 de	O
 Pruissische	O
@@ -7394,8 +7394,8 @@ hebben	O
 bestreed	O
 de	O
 heer	O
-von	B-PER
-Bismarck	B-PER
+von	I-PER
+Bismarck	I-PER
 het	O
 ge	O
 voelen	O
@@ -7431,7 +7431,7 @@ Het	O
 voorstel	O
 der	O
 heeren	O
-Virchow	B-PER
+Virchow	I-PER
 is	O
 ten	O
 slotte	O
@@ -7453,7 +7453,7 @@ Eer°*ister	O
 was	O
 hut	O
 naburige	O
-Baden	B-LOC
+Baden	I-LOC
 in	O
 rep	O
 en	O
@@ -7502,8 +7502,8 @@ vruchteloos	O
 gebleven	O
 .	O
 
-FRANKRIJK	B-LOC
-PARUS	B-LOC
+FRANKRIJK	I-LOC
+PARUS	I-LOC
 ,	O
 7	O
 Febr	O
@@ -7554,13 +7554,13 @@ verkiezing	O
 van	O
 den	O
 heer	O
-Mackau	B-PER
+Mackau	I-PER
 is	O
 goedgekeurd	O
 .	O
 
-BELGIË	B-LOC
-BRUSSEL	B-LOC
+BELGIË	I-LOC
+BRUSSEL	I-LOC
 ,	O
 8	O
 Febr	O
@@ -7635,21 +7635,21 @@ grijpen	O
 
 Het	O
 dagblad	O
-Hainaut	B-ORG
+Hainaut	I-ORG
 meldt	O
 dat	O
 de	O
 ,	O
 deken	O
 van	O
-Dour	B-LOC
+Dour	I-LOC
 voor	O
 cle	O
 civiele	O
 regtbank	O
 van	O
-Mons	B-LOC
-(Bergen	B-LOC
+Mons	I-LOC
+(Bergen	I-LOC
 )	O
 moest	O
 verschijnen	O
@@ -7684,7 +7684,7 @@ moest	O
 de	O
 pastoor	O
 van	O
-Braine-le-Comte	B-LOC
+Braine-le-Comte	I-LOC
 om	O
 de	O
 zelide	O
@@ -7694,10 +7694,10 @@ die	O
 reglbank	O
 verschijnen	O
 .	O
-NEDERLAND	B-LOC
+NEDERLAND	I-LOC
 .	O
 
-TILBURG	B-LOC
+TILBURG	I-LOC
 ,	O
 1	O
 0	O
@@ -7718,19 +7718,19 @@ den	O
 Staat	O
 aan	O
 :	O
-J	B-PER
+J	I-PER
 .	O
-J	B-PER
+J	I-PER
 .	O
 
-Verhoeven	B-PER
+Verhoeven	I-PER
 ,	O
 gf-w	O
 .	O
 hoofdonderw	O
 .	O
 te	O
-Ginneken	B-LOC
+Ginneken	I-LOC
 ten	O
 bedrage	O
 van	O
@@ -7747,14 +7747,14 @@ heeft	O
 aau	O
 den	O
 heer	O
-VV	B-PER
+VV	I-PER
 .	O
-J	B-PER
+J	I-PER
 .	O
-11	B-PER
+11	I-PER
 .	O
 
-Mertz	B-PER
+Mertz	I-PER
 ,	O
 op	O
 zijn	O
@@ -7779,7 +7779,7 @@ der	O
 sukcessier	O
 .	O
 te	O
-Maastricht	B-LOC
+Maastricht	I-LOC
 ,	O
 behoudens	O
 aanspraak	O
@@ -7826,7 +7826,7 @@ der	O
 sukcessier	O
 .	O
 te	O
-Maastricht	B-LOC
+Maastricht	I-LOC
 ,	O
 maar	O
 aan	O
@@ -7867,19 +7867,19 @@ en	O
 entre	O
 poseur	O
 te	O
-Haarlem	B-LOC
+Haarlem	I-LOC
 c	O
 .	O
 a	O
 .	O
 den	O
 heer	O
-F	B-PER
+F	I-PER
 .	O
-A	B-PER
+A	I-PER
 .	O
-des	B-PER
-Tombe	B-PER
+des	I-PER
+Tombe	I-PER
 ,	O
 thans	O
 kontr	O
@@ -7895,7 +7895,7 @@ het	O
 arr	O
 .	O
 te	O
-Amsterdam	B-LOC
+Amsterdam	I-LOC
 .	O
 Z	O
 .	O
@@ -7916,17 +7916,17 @@ en	O
 ace	O
 .	O
 te	O
-Hillegersberg	B-LOC
+Hillegersberg	I-LOC
 c	O
 .	O
 a	O
 .	O
 den	O
 heer	O
-A	B-PER
+A	I-PER
 .	O
-van	B-PER
-Cnpellen	B-PER
+van	I-PER
+Cnpellen	I-PER
 Dz.	O
 ,	O
 thans	O
@@ -7947,7 +7947,7 @@ en	O
 ace	O
 .	O
 te	O
-Hellevoetsluis	B-LOC
+Hellevoetsluis	I-LOC
 .	O
 Z	O
 .	O
@@ -7965,13 +7965,13 @@ dir	O
 bel	O
 .	O
 te	O
-Zwolle	B-LOC
+Zwolle	I-LOC
 den	O
 heer	O
-A	B-PER
+A	I-PER
 .	O
 
-Hoogeveen	B-PER
+Hoogeveen	I-PER
 ,	O
 thans	O
 ontv	O
@@ -7985,8 +7985,8 @@ en	O
 ace	O
 .	O
 te	O
-Nieuwer	B-LOC
-Amstel	B-LOC
+Nieuwer	I-LOC
+Amstel	I-LOC
 .	O
 Z	O
 .	O
@@ -8007,34 +8007,34 @@ nccijnstn	O
 :	O
 
 Te	O
-Babberik	B-LOC
+Babberik	I-LOC
 den	O
 heer	O
-VV	B-PER
+VV	I-PER
 .	O
 
-Schadd	B-PER
+Schadd	I-PER
 ,	O
 thans	O
 te	O
-Wageningen	B-LOC
+Wageningen	I-LOC
 ;	O
 der	O
 direckte	O
 belas	O
 tingen	O
 te	O
-Leeuwarden	B-LOC
+Leeuwarden	I-LOC
 den	O
 heer	O
-E	B-PER
+E	I-PER
 .	O
 
-Jochira	B-PER
+Jochira	I-PER
 ,	O
 thans	O
 te	O
-Dordrecht	B-LOC
+Dordrecht	I-LOC
 ;	O
 der	O
 belastingen	O
@@ -8045,21 +8045,21 @@ regten	O
 en	O
 accijnsen	O
 te	O
-Simpelveld	B-LOC
+Simpelveld	I-LOC
 den	O
 heer	O
-M	B-PER
+M	I-PER
 .	O
-G	B-PER
+G	I-PER
 .	O
-A	B-PER
+A	I-PER
 .	O
 
-Colen	B-PER
+Colen	I-PER
 ,	O
 thans	O
 te	O
-Caberg	B-LOC
+Caberg	I-LOC
 ;	O
 te	O
 .\mbij	O
@@ -8069,25 +8069,25 @@ a	O
 .	O
 dt-n	O
 heer	O
-VV	B-PER
+VV	I-PER
 .	O
 
-Laatsman	B-PER
+Laatsman	I-PER
 ,	O
 thans	O
 te	O
-Simpelveld	B-LOC
+Simpelveld	I-LOC
 .	O
 
 De	O
 heeren	O
-Fransen	B-PER
-van	B-PER
-de	B-PER
-Putte	B-PER
+Fransen	I-PER
+van	I-PER
+de	I-PER
+Putte	I-PER
 en	O
-van	B-PER
-Bosse	B-PER
+van	I-PER
+Bosse	I-PER
 zijn	O
 er	O
 eindelijk	O
@@ -8164,26 +8164,26 @@ is	O
 
 Buitenlandsche	O
 Zaken,'mr	O
-E	B-PER
+E	I-PER
 .	O
-J	B-PER
+J	I-PER
 .	O
-J	B-PER
+J	I-PER
 .	O
-B	B-PER
+B	I-PER
 .	O
 
-CREMERS	B-PER
+CREMERS	I-PER
 ;	O
 Justitie	O
 ,	O
 mr	O
-C	B-PER
+C	I-PER
 .	O
-J	B-PER
+J	I-PER
 .	O
 
-PICKÉ	B-PER
+PICKÉ	I-PER
 ;	O
 Binnenl	O
 .	O
@@ -8191,34 +8191,34 @@ Binnenl	O
 Zaken	O
 ,	O
 mr	O
-J	B-PER
+J	I-PER
 .	O
 
-H	B-PER
+H	I-PER
 ,	O
-GEERTSEMA	B-PER
-Czn	B-PER
+GEERTSEMA	I-PER
+Czn	I-PER
 .	O
 
 Finantien	O
 ,	O
 mr	O
-P	B-PER
+P	I-PER
 .	O
-P	B-PER
+P	I-PER
 .	O
 
-VAN	B-PER
-BOSSE	B-PER
+VAN	I-PER
+BOSSE	I-PER
 ;	O
 Oorlog	O
 ,	O
-J	B-PER
+J	I-PER
 .	O
-W	B-PER
+W	I-PER
 .	O
 
-BLANKEN	B-PER
+BLANKEN	I-PER
 ,	O
 Luitenant-Generaal	O
 ,	O
@@ -8234,23 +8234,23 @@ marine	I-ORG
 ;	O
 Koloniën	O
 ,	O
-I	B-PER
+I	I-PER
 .	O
-D	B-PER
+D	I-PER
 .	O
 
-FRANSEN	B-PER
-VAN	B-PER
-DE	B-PER
-PUTTE	B-PER
+FRANSEN	I-PER
+VAN	I-PER
+DE	I-PER
+PUTTE	I-PER
 Het	O
 door	O
 de	O
 heeren	O
-THORBECKE	B-PER
+THORBECKE	I-PER
 ,	O
 en	O
-OLIVIER	B-PER
+OLIVIER	I-PER
 gegeven	O
 ontslag	O
 ,	O
@@ -8281,7 +8281,7 @@ diensten	O
 
 De	O
 heer	O
-THORBECKE	B-PER
+THORBECKE	I-PER
 is	O
 benoemd	O
 tot	O
@@ -8292,7 +8292,7 @@ staat	O
 ?	O
 de	O
 heer	O
-OLIVIER	B-PER
+OLIVIER	I-PER
 tot	O
 Kommandeur	O
 der	O
@@ -8338,8 +8338,8 @@ den	O
 weg	O
 uit	O
 de	O
-Heuvel	B-LOC
-straat	B-LOC
+Heuvel	I-LOC
+straat	I-LOC
 naar	O
 het	O
 Statiou	O
@@ -8351,10 +8351,10 @@ wegs	O
 van	O
 af	O
 de	O
-Veldhoven	B-LOC
+Veldhoven	I-LOC
 naar	O
-den	B-LOC
-Heuvel	B-LOC
+den	I-LOC
+Heuvel	I-LOC
 .	O
 
 Wij	O
@@ -8435,7 +8435,7 @@ zieb	O
 dezer	O
 dagen	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 bij	O
 eenvoudige	O
 handwerkslieden	O
@@ -8449,8 +8449,8 @@ een	O
 persoon	O
 komende	O
 uit	O
-'s	B-LOC
-Bosch	B-LOC
+'s	I-LOC
+Bosch	I-LOC
 genaamd	O
 H	O
 .	O
@@ -8684,7 +8684,7 @@ de	O
 vier	O
 jaarmarkten	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 bestaan	O
 ,	O
 die	O
@@ -8752,9 +8752,9 @@ heeft	O
 ,	O
 de	O
 heeren	O
-Mutsaers	B-PER
+Mutsaers	I-PER
 en	O
-Borret	B-PER
+Borret	I-PER
 ,	O
 beide	O
 staatsraad	O
@@ -8775,9 +8775,9 @@ den	O
 H	O
 .	O
 
-Gregorius	B-PER
-den	B-PER
-Groote	B-PER
+Gregorius	I-PER
+den	I-PER
+Groote	I-PER
 .	O
 
 Wij	O
@@ -8797,7 +8797,7 @@ geschonken	O
 de	O
 Katholieken	O
 in	O
-Nederland	B-LOC
+Nederland	I-LOC
 zal	O
 verheugen	O
 .	O
@@ -8817,13 +8817,13 @@ wel	O
 in	O
 de	O
 gemeente	O
-Rozendaal	B-LOC
+Rozendaal	I-LOC
 in	O
 den	O
 stal	O
 van	O
-Willem	B-PER
-Dekkers	B-PER
+Willem	I-PER
+Dekkers	I-PER
 .	O
 
 Naar	O
@@ -8884,7 +8884,7 @@ hst	O
 gedeelte	O
 der	O
 gemeente	O
-Rozendaal	B-LOC
+Rozendaal	I-LOC
 ,	O
 gelegen	O
 binnen	O
@@ -8942,8 +8942,8 @@ fl5O.	O
 ?	O
 aande	O
 te	O
-'s	B-LOC
-Bosch	B-LOC
+'s	I-LOC
+Bosch	I-LOC
 gevestigde	O
 maat	O
 .	O
@@ -8984,7 +8984,7 @@ drie	O
 weken	O
 geleden	O
 naar	O
-Kome	B-LOC
+Kome	I-LOC
 vertrokken	O
 zijn	O
 om	O
@@ -9019,7 +9019,7 @@ van	O
 uit	O
 zijne	O
 garnizo.^nsplaats	O
-Veiletri	B-LOC
+Veiletri	I-LOC
 ,	O
 onder	O
 dagteekening	O
@@ -9049,21 +9049,21 @@ Na	O
 de	O
 reis	O
 van	O
-'s	B-LOC
-Bosch	B-LOC
+'s	I-LOC
+Bosch	I-LOC
 ,	O
 over	O
-Gend	B-LOC
+Gend	I-LOC
 ,	O
-Brussel	B-LOC
+Brussel	I-LOC
 ,	O
-Parijs	B-LOC
+Parijs	I-LOC
 ,	O
-Marseille	B-LOC
+Marseille	I-LOC
 ,	O
-Civita-Vecchia	B-LOC
+Civita-Vecchia	I-LOC
 tot	O
-Rome	B-LOC
+Rome	I-LOC
 beschre	O
 ven	O
 te	O
@@ -9094,7 +9094,7 @@ zijn	O
 7	O
 dagen	O
 in	O
-Rome	B-LOC
+Rome	I-LOC
 in	O
 het	O
 depot	O
@@ -9269,13 +9269,13 @@ Wij	O
 zijn	O
 allemaal	O
 uit	O
-Rome	B-LOC
+Rome	I-LOC
 verplaatst	O
 naar	O
 ons	O
 Regement	O
 te	O
-Velletri	B-LOC
+Velletri	I-LOC
 ,	O
 1	O
 2	O
@@ -9429,7 +9429,7 @@ Eene	O
 telegrafische	O
 depêche	O
 uit	O
-Rome	B-LOC
+Rome	I-LOC
 van	O
 Zondag	O
 morgen	O
@@ -9468,7 +9468,7 @@ van	O
 van	O
 hier	O
 naar	O
-Gend	B-LOC
+Gend	I-LOC
 enz	O
 .	O
 vertrokken	O
@@ -9498,7 +9498,7 @@ blijven	O
 en	O
 vervolgens	O
 naar	O
-Veiletri	B-LOC
+Veiletri	I-LOC
 in	O
 garnizoen	O
 gaan	O
@@ -9556,36 +9556,36 @@ banters	O
 als	O
 8	O
 van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 i	O
 van	O
-Oisterwijk	B-LOC
+Oisterwijk	I-LOC
 ,	O
 \	O
 van	O
-Woensel	B-LOC
+Woensel	I-LOC
 ,	O
 4	O
 van	O
-Geldrop	B-LOC
+Geldrop	I-LOC
 ,	O
 2	O
 van	O
-Uden	B-LOC
+Uden	I-LOC
 ,	O
 1	O
 van	O
-Dinther	B-LOC
+Dinther	I-LOC
 ,	O
 2	O
 van	O
-Drunen	B-LOC
+Drunen	I-LOC
 en	O
 1	O
 5	O
 van	O
-Veghel	B-LOC
+Veghel	I-LOC
 ;	O
 6	O
 Gelderlanders	O
@@ -9594,23 +9594,23 @@ als	O
 :	O
 1	O
 van	O
-Nijmegen	B-LOC
+Nijmegen	I-LOC
 ,	O
 1	O
 van	O
-Eist	B-LOC
+Eist	I-LOC
 ,	O
 8	O
 van	O
-Herveld	B-LOC
+Herveld	I-LOC
 onder	O
-Valburg	B-LOC
+Valburg	I-LOC
 (Over	O
-Betuwe	B-LOC
+Betuwe	I-LOC
 )	O
 1	O
 van	O
-Kuilenburg,en	B-LOC
+Kuilenburg,en	I-LOC
 1	O
 Utrechtenaar	O
 .	O
@@ -9624,7 +9624,7 @@ hebben	O
 den	O
 weg	O
 over	O
-Gend	B-LOC
+Gend	I-LOC
 genomen	O
 ,	O
 en	O
@@ -9638,20 +9638,20 @@ mannen	O
 
 Die	O
 van	O
-Veghel	B-LOC
+Veghel	I-LOC
 ,	O
 zegt	O
 men	O
 ,	O
 doen	O
-Gend	B-LOC
+Gend	I-LOC
 niet	O
 aan	O
 ,	O
 maar	O
 zijn	O
 op	O
-Brussel	B-LOC
+Brussel	I-LOC
 aan	O
 gezonden	O
 .	O
@@ -9661,7 +9661,7 @@ Vlamingen	O
 gaan	O
 mede	O
 naar	O
-Rome	B-LOC
+Rome	I-LOC
 ,	O
 en	O
 onder	O
@@ -9670,13 +9670,13 @@ bevindt	O
 zich	O
 de	O
 zoon	O
-Carlos	B-PER
+Carlos	I-PER
 van	O
 den	O
-graaf	B-PER
-d'Alcantara	B-PER
+graaf	I-PER
+d'Alcantara	I-PER
 van	O
-Gend	B-LOC
+Gend	I-LOC
 .	O
 
 Het	O
@@ -9686,7 +9686,7 @@ en	O
 Belgische	O
 vrijwilligers	O
 naar	O
-Rome	B-LOC
+Rome	I-LOC
 wordt	O
 elke	O
 week	O
@@ -9696,7 +9696,7 @@ de	O
 bezending	O
 welke	O
 Maandag	O
-Brussel	B-LOC
+Brussel	I-LOC
 verlaten	O
 heeft	O
 telde	O
@@ -9733,10 +9733,10 @@ Marine	O
 ,	O
 de	O
 ridder	O
-Huysen	B-PER
-van	B-PER
-Katten	B-PER
-dyke	B-PER
+Huysen	I-PER
+van	I-PER
+Katten	I-PER
+dyke	I-PER
 Dingsdag	O
 morgen	O
 overleden	O
@@ -9763,7 +9763,7 @@ Oor	O
 log	O
 ,	O
 generaal	O
-Blanken	B-PER
+Blanken	I-PER
 ,	O
 is	O
 ad	O
@@ -9775,14 +9775,14 @@ portefeuille	O
 van	O
 Marine	O
 .	O
-W	B-PER
+W	I-PER
 .	O
-van	B-PER
-Ommen	B-PER
+van	I-PER
+Ommen	I-PER
 ,	O
 timmerman	O
 te	O
-Baaren	B-LOC
+Baaren	I-LOC
 ,	O
 is	O
 wegens	O
@@ -9794,14 +9794,14 @@ den	O
 onbezoldigden	O
 rijks-veld	O
 wachter	O
-Jansen	B-PER
+Jansen	I-PER
 ,	O
 door	O
 het	O
 provinciaal	O
 geregtshof	O
 te	O
-Utrecht	B-LOC
+Utrecht	I-LOC
 tot	O
 de	O
 straffe	O
@@ -9827,27 +9827,27 @@ Men	O
 meldt	O
 ons	O
 uit	O
-Rome	B-LOC
+Rome	I-LOC
 ,	O
 dat	O
 Zijne	O
 Excellentie	O
 Mgr	O
 .	O
-L	B-PER
+L	I-PER
 .	O
 
-Oreglia	B-PER
-di	B-PER
-San	B-PER
-Stefano	B-PER
+Oreglia	I-PER
+di	I-PER
+San	I-PER
+Stefano	I-PER
 ,	O
 internuntius	O
 bij	O
 het	O
 hof	O
 van	O
-Nederland	B-LOC
+Nederland	I-LOC
 ,	O
 door	O
 Zijne	O
@@ -9860,7 +9860,7 @@ bij	O
 het	O
 hof	I-ORG
 van	O
-België	B-LOC
+België	I-LOC
 .	O
 
 Het	O
@@ -9877,7 +9877,7 @@ veelvuldige	O
 vereer	O
 ders	O
 in	O
-Nederland	B-LOC
+Nederland	I-LOC
 raet	O
 gemengde	O
 aandoeningen	O
@@ -9890,7 +9890,7 @@ Gewis	O
 zal	O
 men	O
 in	O
-Nederland	B-LOC
+Nederland	I-LOC
 het	O
 ver	O
 «	O
@@ -9949,7 +9949,7 @@ blijven	O
 zal	O
 .	O
 
-België	B-LOC
+België	I-LOC
 mag	O
 zich	O
 wel	O
@@ -10181,13 +10181,13 @@ trek	O
 van	O
 minzaamheid	O
 van	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 in	O
 de	O
-Correspondance	B-ORG
-de	B-ORG
-Rome	B-ORG
+Correspondance	I-ORG
+de	I-ORG
+Rome	I-ORG
 ?	O
 //In	O
 een	O
@@ -10240,8 +10240,8 @@ wanhoop	O
 aan	O
 ,	O
 dat	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 tot	O
 baar	O
 zeide	O
@@ -10313,17 +10313,17 @@ Op	O
 haren	O
 blik	O
 scheen	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 te	O
 ontstellen	O
 gelijk	O
-Jezus	B-PER
+Jezus	I-PER
 voor	O
 het	O
 graf	O
 van	O
-Lazarus	B-PER
+Lazarus	I-PER
 ,	O
 infremuii	O
 spiritu	O
@@ -10342,7 +10342,7 @@ in	O
 naam	O
 van	O
 den	O
-Christus	B-PER
+Christus	I-PER
 ,	O
 wiens	O
 plaatsbekleeder	O
@@ -10417,24 +10417,24 @@ Wij	O
 lezen	O
 in	O
 de	O
-Bien	B-ORG
-Public	B-ORG
+Bien	I-ORG
+Public	I-ORG
 van	O
-Gend	B-LOC
+Gend	I-LOC
 Een	O
 onzer	O
 stadgenooten	O
 ,	O
 de	O
 heer	O
-Carlos	B-PER
-d'Alcantara	B-PER
+Carlos	I-PER
+d'Alcantara	I-PER
 ,	O
 is	O
 gister	O
 morgen	O
 naar	O
-Rome	B-LOC
+Rome	I-LOC
 vertrokken	O
 ,	O
 alwaar	O
@@ -10503,7 +10503,7 @@ van	O
 den	O
 graaf	O
 van	O
-Alcantara	B-LOC
+Alcantara	I-LOC
 gegeven	O
 ,	O
 en	O
@@ -10551,7 +10551,7 @@ gelijk	O
 zij	O
 't	O
 voor	O
-God	B-PER
+God	I-PER
 zijn	O
 ,	O
 den	O
@@ -10570,8 +10570,8 @@ voor	O
 de	O
 zaak	O
 van	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 op	O
 offeren	O
 ,	O
@@ -10630,7 +10630,7 @@ snellen	O
 misschien	O
 een	O
 tweede	O
-Castelfidardo	B-LOC
+Castelfidardo	I-LOC
 te	O
 gemoet	O
 ;	O
@@ -10656,13 +10656,13 @@ den	O
 kreet	O
 :	O
 
-God	B-PER
+God	I-PER
 teil	O
 het	O
 !	O
 
 Te	O
-New-York	B-LOC
+New-York	I-LOC
 bestaan	O
 20,00	O
 0	O
@@ -10943,8 +10943,8 @@ Febr	O
 .	O
 zal	O
 te	O
-'s	B-LOC
-Bosch	B-LOC
+'s	I-LOC
+Bosch	I-LOC
 worden	O
 aan	O
 besteed	O
@@ -10962,18 +10962,18 @@ van	O
 het	O
 kanaal	O
 de	O
-Dieze	B-LOC
+Dieze	I-LOC
 ,	O
 van	O
 de	O
 stad	O
-'s	B-LOC
-Hertogenbosch	B-LOC
+'s	I-LOC
+Hertogenbosch	I-LOC
 tot	O
 bij	O
 het	O
 lort	O
-Crevecoeur	B-LOC
+Crevecoeur	I-LOC
 .	O
 
 Op	O
@@ -10989,11 +10989,11 @@ aan	O
 het	O
 bureaux	O
 der	O
-Staatsspoorwegen	B-ORG
+Staatsspoorwegen	I-ORG
 ,	O
 te	O
-'s	B-LOC
-Hage	B-LOC
+'s	I-LOC
+Hage	I-LOC
 worden	O
 aanbesteed	O
 :	O
@@ -11003,23 +11003,23 @@ van	O
 het	O
 gedeelte	O
 van	O
-'s	B-LOC
-Her	B-LOC
-togenbosch	B-LOC
+'s	I-LOC
+Her	I-LOC
+togenbosch	I-LOC
 tot	O
-Boxtel	B-LOC
+Boxtel	I-LOC
 van	O
 den	O
 spoorweg	O
 van	O
-Utrecht	B-LOC
+Utrecht	I-LOC
 naar	O
-Boxtel	B-LOC
+Boxtel	I-LOC
 ,	O
 KANTONGEREGT	O
 .	O
 
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 5	O
 Februarij	O
@@ -11058,7 +11058,7 @@ de	O
 publieke	O
 straat	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 zonder	O
 vergunning	O
@@ -11082,8 +11082,8 @@ opgetreden	O
 de	O
 heer	O
 Mr	O
-Napoleon	B-PER
-Sassen.	B-PER
+Napoleon	I-PER
+Sassen.	I-PER
 )	O
 2b	O
 .	O
@@ -11231,7 +11231,7 @@ verhalen	O
 
 INGEZONDEN	O
 STUKKEN	O
-Oostebhout	B-LOC
+Oostebhout	I-LOC
 ,	O
 8	O
 Februarij	O
@@ -11243,9 +11243,9 @@ de	O
 Redakteur	O
 van	O
 het	O
-Weekblad	B-ORG
-van	B-ORG
-Tilburg	B-ORG
+Weekblad	I-ORG
+van	I-ORG
+Tilburg	I-ORG
 !	O
 
 Mogen	O
@@ -11283,8 +11283,8 @@ avond	O
 het	O
 genoegen	O
 te	O
-Ooster	B-LOC
-hout	B-LOC
+Ooster	I-LOC
+hout	I-LOC
 eene	O
 voorstelling	O
 by	O
@@ -11298,9 +11298,9 @@ heeren	O
 rederijkers	O
 van	O
 het	O
-gezelschap	B-ORG
-Willem	B-ORG
-Teil	B-ORG
+gezelschap	I-ORG
+Willem	I-ORG
+Teil	I-ORG
 ,	O
 ten	O
 voordeele	O
@@ -11315,17 +11315,17 @@ mede	O
 werking	O
 der	O
 gebroeders	O
-van	B-PER
-der	B-PER
-Ven	B-PER
+van	I-PER
+der	I-PER
+Ven	I-PER
 uit	O
-Middelbeers	B-LOC
+Middelbeers	I-LOC
 en	O
 van	O
 de	O
-Harmonie	B-ORG
-van	B-ORG
-Oosterhout	B-ORG
+Harmonie	I-ORG
+van	I-ORG
+Oosterhout	I-ORG
 .	O
 
 Alle	O
@@ -11385,10 +11385,10 @@ zaal	O
 bij	O
 den	O
 heer	O
-J	B-PER
+J	I-PER
 .	O
 
-Olislagers	B-PER
+Olislagers	I-PER
 ,	O
 in	O
 de	O
@@ -11446,7 +11446,7 @@ met	O
 woord	O
 .	O
 
-Oosterhout	B-LOC
+Oosterhout	I-LOC
 heeft	O
 op	O
 nieuw	O
@@ -11467,9 +11467,9 @@ dan	O
 ook	O
 dat	O
 het	O
-gezelschap	B-ORG
-Willem	B-ORG
-Teil	B-ORG
+gezelschap	I-ORG
+Willem	I-ORG
+Teil	I-ORG
 voort	O
 zal	O
 gaan	O
@@ -11486,16 +11486,16 @@ geven	O
 ADVERTENTIËN	O
 KANTOOR	O
 VAN	O
-J	B-PER
+J	I-PER
 .	O
-F	B-PER
+F	I-PER
 .	O
-H	B-PER
+H	I-PER
 .	O
 
-LOMMEN	B-PER
+LOMMEN	I-PER
 TB	O
-TILBURG	B-LOC
+TILBURG	I-LOC
 .	O
 
 Openbare	O
@@ -11533,24 +11533,24 @@ overstaan	O
 van	O
 den	O
 Deurwaarder	O
-CORiIELISSE	B-PER
+CORiIELISSE	I-PER
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 ter	O
 woning	O
 van	O
 den	O
 Heer	O
-ANDRIES	B-PER
-KLUS	B-PER
+ANDRIES	I-PER
+KLUS	I-PER
 ,	O
 Leerlooijer	O
 in	O
 de	O
-Kerkstraat	B-LOC
+Kerkstraat	I-LOC
 te	O
-Dongen	B-LOC
+Dongen	I-LOC
 ,	O
 openbaarlijk	O
 aan	O
@@ -11641,7 +11641,7 @@ van	O
 Leder	O
 .	O
 
-WAALWIJK	B-LOC
+WAALWIJK	I-LOC
 1	O
 Februarij	O
 .	O
@@ -11949,7 +11949,7 @@ vraag	O
 MARKTBERIGTEN	O
 .	O
 
-TILBURG	B-LOC
+TILBURG	I-LOC
 ,	O
 9	O
 Februarij	O
@@ -11993,7 +11993,7 @@ BOTERMIJNEN	O
 Febr	O
 .	O
 
-Besoijen	B-LOC
+Besoijen	I-LOC
 ,	O
 86	O
 7	O
@@ -12010,7 +12010,7 @@ f	O
 7	O
 /	O
 /	O
-Hilvarenbeek	B-LOC
+Hilvarenbeek	I-LOC
 ,	O
 51	O
 4	O
@@ -12023,7 +12023,7 @@ f	O
 7	O
 7	O
 ii	O
-Waspik	B-LOC
+Waspik	I-LOC
 ,	O
 67	O
 3	O
@@ -12036,7 +12036,7 @@ f	O
 3	O
 8	O
 o	O
-Udenhout	B-LOC
+Udenhout	I-LOC
 ,	O
 171	O
 6	O
@@ -12047,8 +12047,8 @@ fl.lo	O
 f	O
 1.2	O
 2	O
-'s	B-LOC
-HERTOGENBOSCH	B-LOC
+'s	I-LOC
+HERTOGENBOSCH	I-LOC
 8	O
 Februarij	O
 .	O
@@ -12182,7 +12182,7 @@ Roggebrood	O
 2	O
 8	O
 cents	O
-SCHIEDAM	B-LOC
+SCHIEDAM	I-LOC
 ,	O
 9	O
 Februarij	O
@@ -12233,7 +12233,7 @@ ketel	O
 
 BEURS	O
 VAN	O
-AMSTERDAM	B-LOC
+AMSTERDAM	I-LOC
 .	O
 
 Vrijdag	O
@@ -12255,7 +12255,7 @@ pet	O
 1	O
 3/16	O
 ;	O
-?Spanje	B-LOC
+?Spanje	I-LOC
 ,	O
 Binnen.	O
 .	O
@@ -12270,7 +12270,7 @@ Rusl	O
 Obl	O
 .	O
 bij	O
-Hope	B-ORG
+Hope	I-ORG
 en	I-ORG
 Co	I-ORG
 .	O
@@ -12290,7 +12290,7 @@ dito	O
 0	O
 3/	O
 4	O
-Oostenrijk	B-LOC
+Oostenrijk	I-LOC
 ,	O
 Metall	O
 .	O
@@ -12439,14 +12439,14 @@ middelbare	O
 r	O
 vierstand	O
 te	O
-Grave	B-LOC
+Grave	I-LOC
 is	O
 6.7	O
 5	O
 el	O
 boven	O
 AP	O
-sBOSCH	B-LOC
+sBOSCH	I-LOC
 8	O
 Febr	O
 .	O
@@ -12478,7 +12478,7 @@ gew	O
 1	O
 3	O
 duim	O
-ARNHEM	B-LOC
+ARNHEM	I-LOC
 6	O
 Febr	O
 .	O
@@ -12496,7 +12496,7 @@ gew	O
 5	O
 3	O
 duim	O
-KEULEN	B-LOC
+KEULEN	I-LOC
 7	O
 Fcbr	O
 .	O
@@ -12538,12 +12538,12 @@ gew	O
 duim	O
 Gedrukt	O
 bij	O
-W	B-PER
+W	I-PER
 .	O
 
-BERGMANS	B-PER
+BERGMANS	I-PER
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 .	O
 
 BIJ	O
@@ -12658,10 +12658,10 @@ medegedeeld	O
 door	O
 11	O
 .	O
-A	B-PER
+A	I-PER
 .	O
 
-BA.VNING	B-PER
+BA.VNING	I-PER
 ,	O
 SCHRIJVER	O
 VAN	O
@@ -12731,9 +12731,9 @@ bekende	O
 werk	O
 van	O
 Kardinaal	O
-WISEMAN	B-PER
+WISEMAN	I-PER
 ,	O
-Fabiola	B-PER
+Fabiola	I-PER
 of	O
 de	O
 Kerk	O
@@ -12776,8 +12776,8 @@ Z	O
 ïï	O
 .	O
 
-PIUS	B-PER
-IX	B-PER
+PIUS	I-PER
+IX	I-PER
 ,	O
 ROYAAL	O
 FORMAAT	O
@@ -12791,7 +12791,7 @@ de	O
 gunstig	O
 bekende	O
 firma	O
-Joa	B-ORG
+Joa	I-ORG
 .	O
 
 Smuldeks	I-ORG
@@ -12808,8 +12808,8 @@ M	O
 den	O
 Koning	O
 te	O
-'s	B-LOC
-Gravenhage	B-LOC
+'s	I-LOC
+Gravenhage	I-LOC
 ,	O
 is	O
 volgens	O
@@ -12825,8 +12825,8 @@ Z	O
 H	O
 .	O
 
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 verschenen	O
 zijn	O
 .	O
@@ -12908,17 +12908,17 @@ den	O
 Uit	O
 -	O
 S6Vel	O
-HENRI	B-PER
-BOGAERTS	B-PER
+HENRI	I-PER
+BOGAERTS	I-PER
 ,	O
 OPVOLGER	O
 VAN	O
-P	B-PER
+P	I-PER
 .	O
-N	B-PER
+N	I-PER
 .	O
 
-VERHOEVEN	B-PER
+VERHOEVEN	I-PER
 ,	O
 Drukker	O
 en	O
@@ -12931,18 +12931,18 @@ H	O
 .	O
 
 Paus	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 .	O
 te	O
-'s	B-LOC
-Hertogenbosch	B-LOC
+'s	I-LOC
+Hertogenbosch	I-LOC
 .	O
 
 Burgerlijke	O
 Stand	O
 van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 van	O
 den	O
@@ -12957,7 +12957,7 @@ Februarij	O
 .	O
 GEBOORTEN	O
 .	O
-T	B-PER
+T	I-PER
 .	O
 van	I-PER
 lersel	I-PER
@@ -12970,7 +12970,7 @@ Laak	I-PER
 d	O
 .	O
 ?	O
-C	B-PER
+C	I-PER
 .	O
 van	I-PER
 den	I-PER
@@ -12978,7 +12978,7 @@ llout	I-PER
 geb	I-PER
 .	O
 
-Vonken	B-PER
+Vonken	I-PER
 ,	O
 d	O
 .	O
@@ -12986,20 +12986,20 @@ d	O
 «?	O
 ?	O
 
-Lommers	B-PER
-geb	B-PER
+Lommers	I-PER
+geb	I-PER
 .	O
-van	B-PER
-den	B-PER
+van	I-PER
+den	I-PER
 Biggelaar	I-PER
 ,	O
 z	O
 .	O
 ?	O
-E	B-PER
+E	I-PER
 .	O
 
-Kooien	B-PER
+Kooien	I-PER
 geb	I-PER
 .	O
 
@@ -13009,7 +13009,7 @@ Schuurmans	I-PER
 d	O
 .	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
 nC	I-PER
 .	O
@@ -13026,19 +13026,19 @@ Krepel	I-PER
 ,	O
 z	O
 .	O
-?C	B-PER
+?C	I-PER
 .	O
 
-Janssen	B-PER
-geb	B-PER
+Janssen	I-PER
+geb	I-PER
 .	O
 
-Manderf	B-PER
+Manderf	I-PER
 ,	O
 d	O
 .	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
 
 Brenders	I-PER
@@ -13052,7 +13052,7 @@ fevenl	O
 z	O
 .	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
 
 Smolders	I-PER
@@ -13067,7 +13067,7 @@ z	O
 .	O
 OVEBLIJDENS	O
 .	O
-T	B-PER
+T	I-PER
 .	O
 van	I-PER
 Dijk	I-PER
@@ -13079,16 +13079,16 @@ oud	O
 d	O
 .	O
 ?	O
-W	B-PER
+W	I-PER
 .	O
-van	B-PER
-den	B-PER
-Boer	B-PER
+van	I-PER
+den	I-PER
+Boer	I-PER
 ,	O
 echt-r	O
 .	O
 van	O
-J	B-PER
+J	I-PER
 .	O
 G	I-PER
 .	O
@@ -13101,7 +13101,7 @@ oud	O
 j	O
 .	O
 ?	O
-C	B-PER
+C	I-PER
 .	O
 A	I-PER
 .	O
@@ -13114,7 +13114,7 @@ oud	O
 j	O
 .	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
 M	I-PER
 .	O
@@ -13127,7 +13127,7 @@ oud	O
 j	O
 .	O
 ?	O
-P	B-PER
+P	I-PER
 .	O
 A	I-PER
 .	O
@@ -13140,17 +13140,17 @@ oud	O
 m	O
 -	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
 
-Leijten	B-PER
+Leijten	I-PER
 jd.	O
 ,	O
 oud	O
 3	O
 j	O
 .	O
-?A	B-PER
+?A	I-PER
 .	O
 J	I-PER
 .	O
@@ -13167,7 +13167,7 @@ j	O
 .	O
 -	O
 -	O
-A	B-PER
+A	I-PER
 .	O
 G	I-PER
 .	O
@@ -13185,7 +13185,7 @@ oud	O
 j	O
 .	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
 J	I-PER
 .	O
@@ -13198,19 +13198,19 @@ oud	O
 j	O
 .	O
 ?	O
-F	B-PER
+F	I-PER
 .	O
 
-Robben	B-PER
+Robben	I-PER
 wedn	O
 .	O
 van	O
-H	B-PER
+H	I-PER
 .	O
-M	B-PER
+M	I-PER
 .	O
 
-Peeters	B-PER
+Peeters	I-PER
 ,	O
 oud	O
 7	O
@@ -13218,7 +13218,7 @@ oud	O
 j	O
 .	O
 ?	O
-G	B-PER
+G	I-PER
 .	O
 
 Bruurs	I-PER
@@ -13229,7 +13229,7 @@ oud	O
 j	O
 .	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
 P	I-PER
 .	O
@@ -13242,17 +13242,17 @@ oud	O
 j	O
 .	O
 ?	O
-J	B-PER
+J	I-PER
 .	O
 
 Wouters	I-PER
 huisvr	O
 .	O
 van	O
-G	B-PER
+G	I-PER
 .	O
 
-Oostelbos	B-PER
+Oostelbos	I-PER
 ,	O
 oud	O
 3	O
@@ -13260,7 +13260,7 @@ oud	O
 j	O
 .	O
 ?	O
-B	B-PER
+B	I-PER
 .	O
 van	I-PER
 der	I-PER
@@ -13268,7 +13268,7 @@ Vloet	I-PER
 huisvr	O
 .	O
 van	O
-C	B-PER
+C	I-PER
 .	O
 
 Mo	I-PER
@@ -13280,12 +13280,12 @@ oud	O
 j	O
 .	O
 ?	O
-P	B-PER
+P	I-PER
 .	O
-J	B-PER
+J	I-PER
 .	O
 
-Stovers	B-PER
+Stovers	I-PER
 jm.	O
 ,	O
 oud	O
@@ -13293,7 +13293,7 @@ oud	O
 m	O
 .	O
 ?	O
-D	B-PER
+D	I-PER
 .	O
 J	I-PER
 .	O
@@ -13323,11 +13323,11 @@ m	O
 STOOMBOOT	O
 DIENST	O
 TUSSCTIEN	O
-OOSTERHOUT	B-LOC
+OOSTERHOUT	I-LOC
 ,	O
-DORDRECHT	B-LOC
+DORDRECHT	I-LOC
 M	O
-ROTTERDAM	B-LOC
+ROTTERDAM	I-LOC
 .	O
 ?MUM	O
 WM	O
@@ -13340,9 +13340,9 @@ IJ	O
 .	O
 
 Van	O
-Oosterhout	B-LOC
+Oosterhout	I-LOC
 Van	O
-Rotterdam	B-LOC
+Rotterdam	I-LOC
 Maandag	O
 12	O
 ,	O
@@ -13395,7 +13395,7 @@ u	O
 vrachtprijzen	O
 :	O
 
-OOSTERHOUT?ROTTEROA	B-LOC
+OOSTERHOUT?ROTTEROA	I-LOC
 II	O
 :	O
 
@@ -13435,7 +13435,7 @@ Lectuur	O
 KATHOLIEKE	O
 81-B-&IOVH-9I-9HL	O
 VAN	O
-T	B-PER
+T	I-PER
 .	O
 C	I-PER
 .	O
@@ -13457,12 +13457,12 @@ werden	O
 uitgegeven	O
 :	O
 
-Guèrin	B-PER
+Guèrin	I-PER
 ,	O
 De	O
 Gelukzalige	O
-MAGARETHA	B-PER
-ALACOQUE	B-PER
+MAGARETHA	I-PER
+ALACOQUE	I-PER
 en	O
 de	O
 Devotie	O
@@ -13471,7 +13471,7 @@ het	O
 Heilig	O
 hart	O
 van	O
-Jezus	B-PER
+Jezus	I-PER
 ,	O
 1	O
 Deel	O
@@ -13481,7 +13481,7 @@ Deel	O
 Heilig	O
 Hart	O
 van	O
-Jezus	B-PER
+Jezus	I-PER
 ,	O
 1	O
 Oeel	O
@@ -13499,7 +13499,7 @@ Deel	O
 /	O
 0.2	O
 0	O
-Séguin	B-PER
+Séguin	I-PER
 ,	O
 Leven	O
 van	O
@@ -13507,9 +13507,9 @@ den	O
 gelukz	O
 .	O
 
-PETRUS	B-PER
-CA	B-PER
-NISIUS	B-PER
+PETRUS	I-PER
+CA	I-PER
+NISIUS	I-PER
 ,	O
 2	O
 Deelen	O
@@ -13517,7 +13517,7 @@ Deelen	O
 /	O
 1.2	O
 0	O
-Martinet	B-PER
+Martinet	I-PER
 ,	O
 EMANUEL	O
 of	O
@@ -13554,8 +13554,8 @@ Leven	O
 van	O
 den	O
 heiligen	O
-DOMINI	B-PER
-CUS	B-PER
+DOMINI	I-PER
+CUS	I-PER
 ,	O
 2	O
 Deelen	O
@@ -13572,9 +13572,9 @@ den	O
 11	O
 .	O
 
-FRANCISCUS	B-PER
-VAN	B-PER
-SALES	B-PER
+FRANCISCUS	I-PER
+VAN	I-PER
+SALES	I-PER
 ,	O
 1	O
 Deel	O
@@ -13582,13 +13582,13 @@ Deel	O
 /	O
 0.4	O
 0	O
-VIVIA	B-PER
-PERPETUA	B-PER
+VIVIA	I-PER
+PERPETUA	I-PER
 ,	O
 eene	O
 zuster	O
 van	O
-FABIOLA	B-PER
+FABIOLA	I-PER
 ,	O
 lste	O
 Deel	O
@@ -13678,13 +13678,13 @@ het	O
 eerste	O
 Deel	O
 van	O
-VIVIA	B-PER
+VIVIA	I-PER
 PERPETUA	I-PER
 ,	O
 eene	O
 zuster	O
 van	O
-FABIOLA	B-PER
+FABIOLA	I-PER
 ,	O
 a	O
 7	O
@@ -13723,10 +13723,10 @@ ond	O
 j	O
 .	O
 ?	O
-A	B-PER
+A	I-PER
 .	O
 
-Burmanje	B-PER
+Burmanje	I-PER
 jra	O
 .	O
 oud	O
@@ -13735,12 +13735,12 @@ oud	O
 j	O
 .	O
 met	O
-J	B-PER
+J	I-PER
 .	O
-C	B-PER
+C	I-PER
 .	O
-van	B-PER
-Blerk	B-PER
+van	I-PER
+Blerk	I-PER
 ,	O
 jd.	O
 ,	O
@@ -13750,7 +13750,7 @@ oud	O
 j	O
 .	O
 ?	O
-W	B-PER
+W	I-PER
 .	O
 N	I-PER
 .	O
@@ -13765,19 +13765,19 @@ ond	O
 j	O
 .	O
 met	O
-P	B-PER
+P	I-PER
 .	O
-van	B-PER
-Blerk	B-PER
+van	I-PER
+Blerk	I-PER
 oud	O
 3	O
 9	O
 j.?	O
 >	O
-H	B-PER
+H	I-PER
 .	O
-van	B-PER
-dc	B-PER
+van	I-PER
+dc	I-PER
 Wiel	I-PER
 jm.	O
 ,	O
@@ -13787,10 +13787,10 @@ oud	O
 j	O
 .	O
 met	O
-J	B-PER
+J	I-PER
 .	O
 
-Mols	B-PER
+Mols	I-PER
 jd.	O
 ,	O
 oud	O
@@ -13810,7 +13810,7 @@ VAN	O
 HET	O
 POSTKANTOOR	O
 TE	O
-TILBURG	B-LOC
+TILBURG	I-LOC
 .	O
 
 Dagelijks	O
@@ -13894,25 +13894,25 @@ SPOOM*|fe?	O
 .	O
 &jK	O
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Breda	B-LOC
+Breda	I-LOC
 6.17	O
 ,	O
 9.27j^^'.W	O
 v^o»Ai	O
 *	O
 »	O
-Boxtel	B-LOC
+Boxtel	I-LOC
 10,3	O
 2	O
 ïmM.:	O
 :	O
 
 Van	O
-Breda	B-LOC
+Breda	I-LOC
 naar	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 10,04	O
 ,	O
 vmL-1.?,'.'5.30,	O
@@ -13921,9 +13921,9 @@ vmL-1.?,'.'5.30,	O
 .	O
 
 Van	O
-Boxtel	B-LOC
+Boxtel	I-LOC
 naar	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 5.54	O
 ,	O
 9.04Ïv«.	O
@@ -13946,17 +13946,17 @@ POSTV\\GÉ!*3-.'	O
 v	O
 /	O
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Waalwijk	B-LOC
+Waalwijk	I-LOC
 dagelijks	O
 tcnX^e.tóWWSg	O
 .	O
 
 Van	O
-Waalwijk	B-LOC
+Waalwijk	I-LOC
 naar	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 '	O
 »	O
 »	O
@@ -13964,9 +13964,9 @@ Tilburg	B-LOC
 .	O
 
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Heusden	B-LOC
+Heusden	I-LOC
 ,	O
 tusschen	O
 Zondag	O
@@ -13993,9 +13993,9 @@ Leeuw	O
 .	O
 
 Van	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 naar	O
-Geertruidenberg	B-LOC
+Geertruidenberg	I-LOC
 Maandag	O
 en	O
 Dingsdag	O
@@ -14013,9 +14013,9 @@ om	O
 ,	O
 bij	O
 de	O
-Wed	B-PER
+Wed	I-PER
 .	O
-Broeks	B-PER
+Broeks	I-PER
 .	O
 
 Brieven	O
@@ -14025,14 +14025,14 @@ franco	O
 ,	O
 aan	O
 den	O
-Uitgever	B-ORG
-W	B-ORG
+Uitgever	I-ORG
+W	I-ORG
 .	O
 
-BERGMANS	B-ORG
+BERGMANS	I-ORG
 ,	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 .	O
 
 ABONNEMENTSPRIJS	O
@@ -14087,7 +14087,7 @@ f	O
 5	O
 WEEKBLAD	O
 VAN	O
-TILBURG	B-LOC
+TILBURG	I-LOC
 .	O
 
 Nr	O
@@ -14108,8 +14108,8 @@ Z	O
 H	O
 .	O
 
-PIUS	B-PER
-IX	B-PER
+PIUS	I-PER
+IX	I-PER
 .	O
 
 Totaal	O
@@ -14119,11 +14119,11 @@ opgave	O
 f	O
 3266.1	O
 4	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
-Parochie	B-ORG
-'t	B-ORG
-Heike	B-ORG
+Parochie	I-ORG
+'t	I-ORG
+Heike	I-ORG
 :	O
 
 Maiia	O
@@ -14172,14 +14172,14 @@ o	O
 5.	O
 ?	O
 
-Lagemierde	B-LOC
+Lagemierde	I-LOC
 .	O
 -	O
 Uit	O
 den	O
 spaarpot	O
 van	O
-Antje	B-PER
+Antje	I-PER
 tt	O
 0.1	O
 0	O
@@ -14339,18 +14339,18 @@ Vrij	O
 dag	O
 aan	O
 den	O
-uitgever	B-ORG
-W	B-ORG
+uitgever	I-ORG
+W	I-ORG
 .	O
 
-Bergmans	B-ORG
+Bergmans	I-ORG
 te	O
 doen	O
 geworden	O
 .	O
 
-JOANNES	B-PER
-ZWIJSEN	B-PER
+JOANNES	I-PER
+ZWIJSEN	I-PER
 ,	O
 door	O
 de	O
@@ -14368,8 +14368,8 @@ Ulreclit	O
 Apostolisch	O
 Administrator	O
 van	O
-'s	B-LOC
-Hertogenbosch	B-LOC
+'s	I-LOC
+Hertogenbosch	I-LOC
 ,	O
 Huisprelaal	O
 van	O
@@ -14379,8 +14379,8 @@ H	O
 .	O
 
 Paus	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 ,	O
 Assistent-Bisschop	O
 bij	O
@@ -14469,9 +14469,9 @@ de	O
 Heer	O
 ,	O
 de	O
-God	B-PER
+God	I-PER
 van	O
-Israël	B-LOC
+Israël	I-LOC
 ,	O
 die	O
 zijn	O
@@ -14582,13 +14582,13 @@ dringende	O
 uitnoodiging	O
 van	O
 onzen	O
-H	B-PER
+H	I-PER
 .	O
 
 Vader	I-PER
 ,	O
-Pius	B-PER
-IX	B-PER
+Pius	I-PER
+IX	I-PER
 :	O
 
 Gij	O
@@ -14657,7 +14657,7 @@ ah	O
 het	O
 woord	O
 van	O
-God	B-PER
+God	I-PER
 ;	O
 (I	O
 Thess	O
@@ -14930,7 +14930,7 @@ dat	O
 wij	O
 uitsluitend	O
 voor	O
-God	B-PER
+God	I-PER
 eu	O
 zijne	O
 H	O
@@ -14998,13 +14998,13 @@ in	O
 den	O
 schoot	O
 vau	O
-God	B-PER
+God	I-PER
 waardig	O
 temaken	O
 .	O
 
 Vrees	O
-God	B-PER
+God	I-PER
 ,	O
 zoo	O
 spreekt	O
@@ -15348,8 +15348,8 @@ voeding	O
 ,	O
 gelijk	O
 de	O
-Apostel	B-PER
-Paulus	B-PER
+Apostel	I-PER
+Paulus	I-PER
 die	O
 beveelt	O
 ,	O
@@ -15839,7 +15839,7 @@ volgens	O
 de	O
 wet	O
 van	O
-God	B-PER
+God	I-PER
 en	O
 de	O
 leer	O
@@ -15927,7 +15927,7 @@ ontwikko	O
 len	O
 ,	O
 dat	O
-God	B-PER
+God	I-PER
 aan	O
 hetzelve	O
 geschonken	O
@@ -16021,7 +16021,7 @@ in	O
 be	O
 trekking	O
 met	O
-God	B-PER
+God	I-PER
 ;	O
 zij	O
 leert	O
@@ -16060,7 +16060,7 @@ uitmaken	O
 en	O
 haar	O
 raet	O
-God	B-PER
+God	I-PER
 vereenigen	O
 ;	O
 zij	O
@@ -16074,7 +16074,7 @@ om	O
 de	O
 geboden	O
 van	O
-God	B-PER
+God	I-PER
 ,	O
 en	O
 die	O
@@ -16116,7 +16116,7 @@ goeden	O
 heiligen	O
 en	O
 regtvaaardigen	O
-God	B-PER
+God	I-PER
 aangedaan	O
 ;	O
 zij	O
@@ -16714,7 +16714,7 @@ door	O
 diegenen	O
 ,	O
 die	O
-God	B-PER
+God	I-PER
 als	O
 hunne	O
 bewakers	O
@@ -16756,7 +16756,7 @@ onderhouding	O
 der	O
 geboden	O
 van	O
-God	B-PER
+God	I-PER
 en	O
 van	O
 de	O
@@ -16788,8 +16788,8 @@ de	O
 H	O
 .	O
 
-Apostel	B-PER
-Paulus	B-PER
+Apostel	I-PER
+Paulus	I-PER
 tot	O
 zijne	O
 geestelijke	O
@@ -16851,7 +16851,7 @@ pligt	O
 vervullen	O
 ,	O
 dien	O
-God	B-PER
+God	I-PER
 op	O
 uwe	O
 schouderen	O
@@ -16865,7 +16865,7 @@ uwe	O
 kinderen	O
 ,	O
 die	O
-God	B-PER
+God	I-PER
 als	O
 dierbare	O
 pan	O
@@ -16916,7 +16916,7 @@ zult	O
 de	O
 begeerte	O
 van	O
-Jesus	B-PER
+Jesus	I-PER
 vervullen	O
 ,	O
 die	O
@@ -16933,7 +16933,7 @@ weleer	O
 de	O
 moeders	O
 van	O
-Judëa	B-LOC
+Judëa	I-LOC
 ,	O
 de	O
 kinderen	O
@@ -17027,7 +17027,7 @@ gesteld	O
 zijn	O
 ,	O
 opdat	O
-God	B-PER
+God	I-PER
 over	O
 allen	O
 den	O
@@ -17096,8 +17096,8 @@ voor	O
 -	O
 Gedaan	O
 te	O
-'s	B-LOC
-Bosch	B-LOC
+'s	I-LOC
+Bosch	I-LOC
 ,	O
 op	O
 den	O
@@ -17122,7 +17122,7 @@ gelezen	O
 De	O
 Aartsbisschop	O
 van	O
-Utrecht	B-LOC
+Utrecht	I-LOC
 ,	O
 f	O
 JT	O
@@ -17139,10 +17139,10 @@ Doori	O
 
 Hoogwaardigheid	O
 ,	O
-B	B-PER
+B	I-PER
 .	O
-te	B-PER
-BRAAKE	B-PER
+te	I-PER
+BRAAKE	I-PER
 ,	O
 Sekrelaris	O
 .	O
@@ -17150,7 +17150,7 @@ Sekrelaris	O
 Het	O
 Onderwijs	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 .	O
 
 Hebben	O
@@ -17210,7 +17210,7 @@ over	O
 //Het	O
 Onderwijs	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 "	O
 eenigzints	O
 teregt	O
@@ -17460,7 +17460,7 @@ te	O
 betreuren	O
 dat	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 als	O
 bovenbedoeld	O
 geen	O
@@ -17628,13 +17628,13 @@ religieuzen	O
 ,	O
 als	O
 te	O
-Dongen	B-LOC
+Dongen	I-LOC
 ,	O
-Oss	B-LOC
+Oss	I-LOC
 ,	O
-Roosendaal	B-LOC
+Roosendaal	I-LOC
 ,	O
-Oisterwijk	B-LOC
+Oisterwijk	I-LOC
 en	O
 meer	O
 andere	O
@@ -17644,13 +17644,13 @@ In	O
 dat	O
 geval	O
 staat	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 gelijk	O
 met	O
-'s	B-LOC
-Bosch	B-LOC
+'s	I-LOC
+Bosch	I-LOC
 ,	O
-Breda	B-LOC
+Breda	I-LOC
 en	O
 andere	O
 voorname	O
@@ -17663,7 +17663,7 @@ pro	O
 vincie	O
 en	O
 is	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 op	O
 eenen	O
@@ -17673,12 +17673,12 @@ l'/	O
 >	O
 uur	O
 van	O
-Oisterwijk	B-LOC
+Oisterwijk	I-LOC
 en	O
 2	O
 uren	O
 van	O
-Dongen	B-LOC
+Dongen	I-LOC
 ,	O
 zeker	O
 niet	O
@@ -17859,11 +17859,11 @@ hij	O
 zende	O
 ze	O
 naar	O
-Dongen	B-LOC
+Dongen	I-LOC
 ,	O
-Oss	B-LOC
+Oss	I-LOC
 ,	O
-Roosendaal	B-LOC
+Roosendaal	I-LOC
 of	O
 elders	O
 ,	O
@@ -17877,10 +17877,10 @@ met	O
 de	O
 ingezetenen	O
 van	O
-'s	B-LOC
-Bosch	B-LOC
+'s	I-LOC
+Bosch	I-LOC
 ,	O
-Breda	B-LOC
+Breda	I-LOC
 enz	O
 .	O
 gelijk	O
@@ -17892,7 +17892,7 @@ wij	O
 waarom	O
 vooral	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 een	O
 pen	O
 -	O
@@ -17925,7 +17925,7 @@ verschillende	O
 religieuzen	O
 scholen	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 ,	O
 bestaan	O
 in	O
@@ -18321,7 +18321,7 @@ zal	O
 onder	O
 de	O
 rubriek	O
-'Frankrijk	B-LOC
+'Frankrijk	I-LOC
 het	O
 officieel	O
 antwoord	O
@@ -18332,7 +18332,7 @@ de	O
 minister	O
 van	O
 Staat	O
-Rouher	B-PER
+Rouher	I-PER
 gegeven	O
 heeft	O
 op	O
@@ -18353,9 +18353,9 @@ fende	O
 de	O
 aangelegenheden	O
 van	O
-Rome	B-LOC
+Rome	I-LOC
 en	O
-Italie	B-LOC
+Italie	I-LOC
 het	O
 woord	O
 gevoerd	O
@@ -18365,9 +18365,9 @@ hebben	O
 De	O
 betrekkingen	O
 tusschen	O
-Pruissen	B-LOC
+Pruissen	I-LOC
 en	O
-Oostenrijk	B-LOC
+Oostenrijk	I-LOC
 worden	O
 alle	O
 dagen	O
@@ -18390,7 +18390,7 @@ aan	O
 de	O
 verbindtenissen	O
 van	O
-Gastein	B-LOC
+Gastein	I-LOC
 te	O
 kort	O
 te	O
@@ -18406,8 +18406,8 @@ weg	O
 en	O
 de	O
 heer	O
-von	B-PER
-Bismarck	B-PER
+von	I-PER
+Bismarck	I-PER
 ,	O
 wiens	O
 geduld	O
@@ -18433,7 +18433,7 @@ is.	O
 Is	O
 niet	O
 met	O
-Oostenrijk	B-LOC
+Oostenrijk	I-LOC
 alleen	O
 dat	O
 hij	O
@@ -18446,8 +18446,8 @@ Kamer	I-ORG
 van	O
 Afgevaardigden	O
 te	O
-Ber	B-LOC
-lijn	B-LOC
+Ber	I-LOC
+lijn	I-LOC
 is	O
 niet	O
 handelbaarder	O
@@ -18456,8 +18456,8 @@ de	O
 Oostenrijksche	O
 mi	O
 nister	O
-von	B-PER
-Mensdorf	B-PER
+von	I-PER
+Mensdorf	I-PER
 .	O
 
 Ook	O
@@ -18492,7 +18492,7 @@ De	O
 financiëele	O
 toestand	O
 van	O
-Italie	B-LOC
+Italie	I-LOC
 levert	O
 voor	O
 dat	O
@@ -18552,18 +18552,18 @@ gehad	O
 
 Volgens	O
 de	O
-Wanderer	B-ORG
-van	B-ORG
-Weenen	B-ORG
+Wanderer	I-ORG
+van	I-ORG
+Weenen	I-ORG
 heeft	O
-Oostenrijk	B-LOC
+Oostenrijk	I-LOC
 in	O
 zijne	O
 voor	O
 eenige	O
 dagen	O
 naar	O
-Berlijn	B-LOC
+Berlijn	I-LOC
 gezonden	O
 nota	O
 verklaard	O
@@ -18573,7 +18573,7 @@ het	O
 den	O
 hertog	O
 van	O
-Augustenburg	B-LOC
+Augustenburg	I-LOC
 ,	O
 zoo	O
 wel	O
@@ -18598,7 +18598,7 @@ beschouwt	O
 
 De	O
 generaal	O
-Prim	B-PER
+Prim	I-PER
 en	O
 zijne	O
 volgelingen	O
@@ -18610,7 +18610,7 @@ onder	O
 geleide	O
 ,	O
 te	O
-Beja	B-LOC
+Beja	I-LOC
 aangekomen	O
 .	O
 
@@ -18635,8 +18635,8 @@ onder	O
 werping	O
 aan	O
 het	O
-Portugeesche	B-ORG
-gouvernement	B-ORG
+Portugeesche	I-ORG
+gouvernement	I-ORG
 ,	O
 dat	O
 hun	O
@@ -18699,7 +18699,7 @@ gewijzigd	O
 .	O
 
 Tt	O
-Amerikaansche	B-ORG
+Amerikaansche	I-ORG
 Huis	I-ORG
 van	I-ORG
 Afgevaardigden	I-ORG
@@ -18903,12 +18903,12 @@ Afgevaardigden	O
 ,öe	O
 rapporten	O
 nit	O
-Syrië	B-LOC
+Syrië	I-LOC
 meldden	O
 dezer	O
 dagen	O
 dat	O
-Jozef	B-PER
+Jozef	I-PER
 "fam	O
 een	O
 nieuwen	O
@@ -18920,7 +18920,7 @@ e	O
 '	O
 gezag	O
 van	O
-Daoud	B-PER
+Daoud	I-PER
 Pacha	I-PER
 en	O
 van	O
@@ -18960,7 +18960,7 @@ Wgen	O
 troepen	O
 ,	O
 naar	O
-Syrië	B-LOC
+Syrië	I-LOC
 geëxpedieerd	O
 .	O
 
@@ -18971,7 +18971,7 @@ meldt	O
 een	O
 telegram	O
 uit	O
-Konstantinopel	B-LOC
+Konstantinopel	I-LOC
 ,	O
 1	O
 4	O
@@ -18982,7 +18982,7 @@ dat	O
 de	O
 volgelingen	O
 van	O
-Jozef	B-PER
+Jozef	I-PER
 Karam	I-PER
 zich	O
 reeds	O
@@ -18996,13 +18996,13 @@ dat	O
 de	O
 rust	O
 den	O
-Libanon	B-LOC
+Libanon	I-LOC
 hersteld	O
 is	O
 .	O
 
-SPANJE	B-LOC
-MADRID	B-LOC
+SPANJE	I-LOC
+MADRID	I-LOC
 ,	O
 1	O
 4	O
@@ -19020,7 +19020,7 @@ rerleden	O
 De	O
 zitting	O
 der	O
-Cortes	B-ORG
+Cortes	I-ORG
 zal	O
 drie	O
 dagen	O
@@ -19034,7 +19034,7 @@ van	O
 deelneming	O
 .	O
 
-FRANKRIJK	B-LOC
+FRANKRIJK	I-LOC
 Bij	O
 de	O
 beraadslaging	O
@@ -19049,14 +19049,14 @@ van	O
 het	O
 antwoord-adres	O
 betreffende	O
-Rome	B-LOC
+Rome	I-LOC
 ,	O
 beeft	O
 fe	O
 minister	O
 van	O
 staat	O
-Rouher	B-PER
+Rouher	I-PER
 ,	O
 namens	O
 het	O
@@ -19252,7 +19252,7 @@ uitweidend	O
 zeide	O
 de	O
 heer	O
-Rouher	B-PER
+Rouher	I-PER
 dat	O
 het	O
 Fransche	O
@@ -19260,10 +19260,10 @@ gouvernement	O
 dezer	O
 dagen	O
 uit	O
-Rome	B-LOC
+Rome	I-LOC
 en	O
 uit	O
-Florence	B-LOC
+Florence	I-LOC
 de	O
 noodige	O
 opgaven	O
@@ -19280,9 +19280,9 @@ Pauselijke	O
 staats	O
 schuld	O
 tusschen	O
-Rome	B-LOC
+Rome	I-LOC
 en	O
-Italie	B-LOC
+Italie	I-LOC
 te	O
 geraken	O
 ;	O
@@ -19321,8 +19321,8 @@ op	O
 zijne	O
 scbepen	O
 naar	O
-Civita	B-LOC
-Vecehia	B-LOC
+Civita	I-LOC
+Vecehia	I-LOC
 te	O
 brengen	O
 ;	O
@@ -19397,14 +19397,14 @@ was	O
 hare	O
 verzoening	O
 met	O
-Italie	B-LOC
+Italie	I-LOC
 het	O
 doel	O
 ,	O
 zeide	O
 de	O
 heer	O
-Rouher	B-PER
+Rouher	I-PER
 verder	O
 ,	O
 waarvoor	O
@@ -19507,7 +19507,7 @@ van	O
 revolutiomiair	O
 geweld	O
 in	O
-Italie	B-LOC
+Italie	I-LOC
 zou	O
 aanmoedigen	O
 .	O
@@ -19516,7 +19516,7 @@ Daarom	O
 wilde	O
 de	O
 heer	O
-Rouher	B-PER
+Rouher	I-PER
 ,	O
 niet	O
 zeggen	O
@@ -19526,7 +19526,7 @@ Fransche	O
 troepen	O
 nooit	O
 naar	O
-Rome	B-LOC
+Rome	I-LOC
 zouden	O
 terugkee	O
 ren	O
@@ -19538,7 +19538,7 @@ zij	O
 in	O
 zekere	O
 gevallen	O
-Rome	B-LOC
+Rome	I-LOC
 weder	O
 zouden	O
 bezetten	O
@@ -19579,7 +19579,7 @@ rede	O
 van	O
 den	O
 heer	O
-Rouher	B-PER
+Rouher	I-PER
 is	O
 door	O
 de	O
@@ -19632,7 +19632,7 @@ het	O
 adres	O
 .	O
 
-PARIJS	B-LOC
+PARIJS	I-LOC
 ,	O
 1	O
 5	O
@@ -19654,10 +19654,10 @@ op	O
 percent	O
 verminderd	O
 .	O
-NEDERLAND	B-LOC
+NEDERLAND	I-LOC
 .	O
 
-TILBURG	B-LOC
+TILBURG	I-LOC
 ,	O
 1	O
 7	O
@@ -19668,7 +19668,7 @@ M	O
 .	O
 heeft	O
 aan	O
-J	B-PER
+J	I-PER
 .	O
 J	I-PER
 .	O
@@ -19690,8 +19690,8 @@ van	O
 not	O
 .	O
 te	O
-'s	B-LOC
-Gravenhage	B-LOC
+'s	I-LOC
+Gravenhage	I-LOC
 ;	O
 en	O
 is	O
@@ -19700,7 +19700,7 @@ in	O
 zijne	O
 plaats	O
 benoemd	O
-P	B-PER
+P	I-PER
 .	O
 A	I-PER
 .	O
@@ -19739,8 +19739,8 @@ burgem	O
 .	O
 der	O
 gemeente	O
-Drunen	B-LOC
-J	B-PER
+Drunen	I-LOC
+J	I-PER
 .	O
 F	I-PER
 .	O
@@ -19767,12 +19767,12 @@ dir	O
 bel	O
 .	O
 te	O
-Wilnis	B-LOC
+Wilnis	I-LOC
 c	O
 .	O
 a.	O
 ,	O
-J	B-PER
+J	I-PER
 .	O
 A	I-PER
 .	O
@@ -19783,7 +19783,7 @@ thans	O
 ontv	O
 .	O
 te	O
-Wijehen	B-LOC
+Wijehen	I-LOC
 ;	O
 tot	O
 ontv	O
@@ -19795,9 +19795,9 @@ en	O
 uitgaande	O
 regten	O
 te	O
-Caberg	B-LOC
+Caberg	I-LOC
 ,	O
-N	B-PER
+N	I-PER
 .	O
 J	I-PER
 .	O
@@ -19814,7 +19814,7 @@ bij	O
 rijks	O
 entrepot	O
 te	O
-Rotterdam	B-LOC
+Rotterdam	I-LOC
 ;	O
 tot	O
 ontv	O
@@ -19834,12 +19834,12 @@ en	O
 .ace	O
 .	O
 te	O
-Termunterzijl	B-LOC
+Termunterzijl	I-LOC
 c	O
 .	O
 a.	O
 ,	O
-J	B-PER
+J	I-PER
 .	O
 J	I-PER
 .	O
@@ -19860,7 +19860,7 @@ en	O
 ace	O
 .	O
 te	O
-Gent	B-LOC
+Gent	I-LOC
 ;	O
 tot	O
 ontv	O
@@ -19874,14 +19874,14 @@ en	O
 ace	O
 .	O
 te	O
-Wijhe	B-LOC
+Wijhe	I-LOC
 ,	O
-E	B-PER
+E	I-PER
 .	O
-H	B-PER
+H	I-PER
 .	O
 
-Scheidius	B-PER
+Scheidius	I-PER
 ,	O
 thans	O
 adj.-komm	O
@@ -19907,13 +19907,13 @@ het	O
 wa	O
 terschap	O
 van	O
-Lith	B-LOC
+Lith	I-LOC
 ,	O
 tot	O
 voorzitter	O
 deu	O
 heer	O
-M	B-PER
+M	I-PER
 .	O
 van	I-PER
 Alem	I-PER
@@ -19922,7 +19922,7 @@ tot	O
 lid	O
 den	O
 heer	O
-W	B-PER
+W	I-PER
 .	O
 
 Romijnders	I-PER
@@ -19966,7 +19966,7 @@ Mr	O
 .	O
 3	O
 .	O
-R	B-PER
+R	I-PER
 .	O
 
 Thorbecke	I-PER
@@ -19984,7 +19984,7 @@ Mr	O
 
 IV	O
 ,	O
-Olivier	B-PER
+Olivier	I-PER
 ,	O
 als	O
 Minister	O
@@ -20046,7 +20046,7 @@ heeren	O
 :	O
 /	O
 .	O
-D	B-PER
+D	I-PER
 .	O
 
 Fransen	I-PER
@@ -20062,7 +20062,7 @@ loniën	O
 ;	O
 Mr	O
 .	O
-F	B-PER
+F	I-PER
 .	O
 J	I-PER
 .	O
@@ -20079,7 +20079,7 @@ landsche	O
 Zaken	O
 ,	O
 en	O
-W	B-PER
+W	I-PER
 .	O
 J	I-PER
 .	O
@@ -20137,7 +20137,7 @@ van	O
 Financiën	O
 Mr	O
 .	O
-P	B-PER
+P	I-PER
 .	O
 P	I-PER
 .	O
@@ -20147,7 +20147,7 @@ Bosse	I-PER
 lid	O
 van	O
 de	O
-Tweede	B-ORG
+Tweede	I-ORG
 Kamer	I-ORG
 der	I-ORG
 Staten-Generaal	I-ORG
@@ -20159,18 +20159,18 @@ Binnenlandsche	O
 Zaken	O
 Mr	O
 .	O
-J	B-PER
+J	I-PER
 .	O
-11	B-PER
+11	I-PER
 .	O
 
-Geertsema	B-PER
-Czn,	B-PER
+Geertsema	I-PER
+Czn,	I-PER
 ,	O
 lid	O
 van	O
 de	O
-Tweede	B-ORG
+Tweede	I-ORG
 Kamer	I-ORG
 den	I-ORG
 Staten	I-ORG
@@ -20185,20 +20185,20 @@ van	O
 Justitie	O
 Mr	O
 .	O
-C	B-PER
+C	I-PER
 .	O
 
-J	B-PER
+J	I-PER
 ,	O
-Pické	B-PER
+Pické	I-PER
 ,	O
 kanton	O
 regter	O
 te	O
-Tholen	B-LOC
+Tholen	I-LOC
 .	O
 
-Wijders	B-PER
+Wijders	I-PER
 heeft	O
 Zijne	O
 Majesteit	O
@@ -20222,10 +20222,10 @@ Mr	O
 .	O
 </	O
 .	O
-R	B-PER
+R	I-PER
 .	O
 
-Thorbecke	B-PER
+Thorbecke	I-PER
 ,	O
 Minister	O
 van	O
@@ -20267,7 +20267,7 @@ den	O
 heer	O
 Mr	O
 .	O
-A	B-PER
+A	I-PER
 .	O
 
 Olivier	I-PER
@@ -20319,29 +20319,29 @@ van	O
 den	O
 weg	O
 van	O
-den	B-LOC
-Heu	B-LOC
-vel	B-LOC
+den	I-LOC
+Heu	I-LOC
+vel	I-LOC
 ,	O
 de	O
-Koestraat	B-LOC
+Koestraat	I-LOC
 ,	O
 de	O
-Molenstraat	B-LOC
+Molenstraat	I-LOC
 naar	O
 den	O
 grooten	O
 weg	O
 op	O
 de	O
-Veldhoven	B-LOC
+Veldhoven	I-LOC
 zoowel	O
 langs	O
 het	O
 logement	O
 de	O
 Roode	O
-Haan	B-ORG
+Haan	I-ORG
 ,	O
 als	O
 langs	O
@@ -20350,10 +20350,10 @@ woonhuis	O
 van	O
 den	O
 heer	O
-B	B-PER
+B	I-PER
 .	O
 
-Mutsaerts	B-PER
+Mutsaerts	I-PER
 ,	O
 aangenomen	O
 ,	O
@@ -20368,7 +20368,7 @@ straat	O
 van	O
 uit	O
 de	O
-Heuvelstraat	B-LOC
+Heuvelstraat	I-LOC
 naar	O
 het	O
 station	O
@@ -20390,14 +20390,14 @@ Stad	O
 genoot	O
 de	O
 heer	O
-Okon	B-PER
+Okon	I-PER
 is	O
 benoemd	O
 tot	O
 leeraar	O
 voor	O
 de	O
-Hooger	B-ORG
+Hooger	I-ORG
 Burgerschool	I-ORG
 met	O
 vierjarigen	O
@@ -20414,7 +20414,7 @@ is	O
 alhier	O
 op	O
 't	O
-Goirke	B-LOC
+Goirke	I-LOC
 ,	O
 tengevolge	O
 van	O
@@ -20441,7 +20441,7 @@ fabriek	O
 van	O
 de	O
 heeren	O
-Eras	B-PER
+Eras	I-PER
 ,	O
 welke	O
 reeds	O
@@ -20584,7 +20584,7 @@ beestenwagen	O
 van	O
 het	O
 station	O
-Reijen	B-LOC
+Reijen	I-LOC
 in	O
 eene	O
 snelle	O
@@ -20599,7 +20599,7 @@ voortgere	O
 den	O
 tot	O
 halfweg	O
-Oisterwijk-Boxtel	B-LOC
+Oisterwijk-Boxtel	I-LOC
 ,	O
 alwaar	O
 hij	O
@@ -20625,7 +20625,7 @@ aan	O
 het	O
 station	O
 te	O
-Tilburg	B-LOC
+Tilburg	I-LOC
 opgemerkt	O
 en	O
 aldaar	O
@@ -20636,7 +20636,7 @@ om	O
 naar	O
 het	O
 station	O
-Boxtel	B-LOC
+Boxtel	I-LOC
 te	O
 seinen	O
 .	O
