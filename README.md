@@ -6,6 +6,8 @@ by Luisa März, Stefan Schweter, Nina Poerner, Benjamin Roth and Hinrich Schütz
 
 # Changelog
 
+* 14.08.2022: Mention corpus stats for French and Dutch.
+
 * 07.12.2021: Release of French and Dutch data used for our experiments.
 
 * 16.07.2021: Initial version of this repo.
