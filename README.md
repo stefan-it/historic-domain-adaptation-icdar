@@ -14,6 +14,17 @@ by Luisa März, Stefan Schweter, Nina Poerner, Benjamin Roth and Hinrich Schütz
 
 The data used for our experiments can be found in the `data` folder of this repository.
 
+# Stats
+
+The following table shows an overview of the corpus stats for each language:
+
+| Language | Training Sentences | Development Sentences | Test Sentences
+| -------- | -----------------: | --------------------: | -------------:
+| French   | 7,936              | 992                   | 992
+| Dutch    | 5,777              | 722                   | 723
+
+These stats can be calculated with the `flair_stats.py` script using Flair (commit: `7578403`).
+
 # Code
 
 Code for training our models will be released in near future.
