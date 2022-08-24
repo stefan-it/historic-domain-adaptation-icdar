@@ -30,6 +30,10 @@ These stats can be calculated with the `flair_stats.py` script using Flair (comm
 
 Code for training our models will be released in near future.
 
+# License
+
+We release the data under CC0 1.0 Universal (CC0 1.0) license (Original Licence as used for [Europeana NER Corpora](https://github.com/EuropeanaNewspapers/ner-corpora)).
+
 # Citation
 
 You can use the following BibTeX entry for citing our paper/data:
