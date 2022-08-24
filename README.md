@@ -7,6 +7,7 @@ by Luisa März, Stefan Schweter, Nina Poerner, Benjamin Roth and Hinrich Schütz
 
 # Changelog
 
+* 24.08.2022: Add license and instructions to use the datasets in Flair.
 * 14.08.2022: Mention corpus stats for French and Dutch. Add BibTeX entry.
 * 07.12.2021: Release of French and Dutch data used for our experiments.
 * 16.07.2021: Initial version of this repo.
@@ -44,7 +45,7 @@ dutch_corpus  = NER_ICDAR_EUROPEANA(language="nl")
 
 # License
 
-We release the data under CC0 1.0 Universal (CC0 1.0) license (Original Licence as used for [Europeana NER Corpora](https://github.com/EuropeanaNewspapers/ner-corpora)).
+We release the data under CC0 1.0 Universal (CC0 1.0) license (Same license as used for [Europeana NER Corpora](https://github.com/EuropeanaNewspapers/ner-corpora)).
 
 # Citation
 
