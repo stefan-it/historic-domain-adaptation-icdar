@@ -30,6 +30,18 @@ These stats can be calculated with the `flair_stats.py` script using Flair (comm
 
 Code for training our models will be released in near future.
 
+# Usage in Flair
+
+With latest Flair master branch, native support for our released datasets [was added](https://github.com/flairNLP/flair/pull/2911).
+It is possible to load our datasets with the following lines of code:
+
+```python
+from flair.datasets import NER_ICDAR_EUROPEANA
+
+french_corpus = NER_ICDAR_EUROPEANA(language="fr")
+dutch_corpus  = NER_ICDAR_EUROPEANA(language="nl")
+```
+
 # License
 
 We release the data under CC0 1.0 Universal (CC0 1.0) license (Original Licence as used for [Europeana NER Corpora](https://github.com/EuropeanaNewspapers/ner-corpora)).
